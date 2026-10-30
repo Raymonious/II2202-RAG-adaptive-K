@@ -1,0 +1,4 @@
+sentence-transformers==4.1.0
+transformers==4.51.3
+torch==2.6.0
+spacy==3.8.7

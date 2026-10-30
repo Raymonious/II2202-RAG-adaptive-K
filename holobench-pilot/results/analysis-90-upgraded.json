@@ -1,0 +1,264 @@
+{
+  "questions": 90,
+  "summary": {
+    "adaptive_k": {
+      "k": 178.86666666666667,
+      "tokens": 5220.055555555556,
+      "relevant_recall": 0.6668110386347954,
+      "relevant_precision": 0.6860325206934424,
+      "relevant_f1": 0.586125883976705,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 40
+    },
+    "fixed_k_5": {
+      "k": 5,
+      "tokens": 194.48888888888888,
+      "relevant_recall": 0.03277686842173434,
+      "relevant_precision": 0.7777777777777778,
+      "relevant_f1": 0.06245820367277266,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 12,
+      "at_least_90_percent_recall_count": 0
+    },
+    "fixed_k_10": {
+      "k": 10,
+      "tokens": 389.9,
+      "relevant_recall": 0.0657447937852374,
+      "relevant_precision": 0.7833333333333333,
+      "relevant_f1": 0.11973935044224072,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 9,
+      "at_least_90_percent_recall_count": 0
+    },
+    "fixed_tokens_1000": {
+      "k": 31.966666666666665,
+      "tokens": 981.8,
+      "relevant_recall": 0.1663216131555645,
+      "relevant_precision": 0.7983543995585342,
+      "relevant_f1": 0.27390143986798293,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 6,
+      "at_least_90_percent_recall_count": 0
+    },
+    "fixed_tokens_5000": {
+      "k": 164.1888888888889,
+      "tokens": 4982.011111111111,
+      "relevant_recall": 0.7362771406182782,
+      "relevant_precision": 0.6701848053499713,
+      "relevant_f1": 0.6960762462069824,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 32
+    },
+    "fixed_tokens_10000": {
+      "k": 351.15555555555557,
+      "tokens": 9984.422222222222,
+      "relevant_recall": 0.8804312775248774,
+      "relevant_precision": 0.37544383089237343,
+      "relevant_f1": 0.5152029219671909,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 58
+    },
+    "gap_without_buffer_diagnostic": {
+      "k": 173.86666666666667,
+      "tokens": 5071.4111111111115,
+      "relevant_recall": 0.6545547941692701,
+      "relevant_precision": 0.7007124568686174,
+      "relevant_f1": 0.5819976358409288,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 40
+    },
+    "full_context": {
+      "k": 635.6555555555556,
+      "tokens": 16981.955555555556,
+      "relevant_recall": 1.0,
+      "relevant_precision": 0.24051064308285594,
+      "relevant_f1": 0.3797458819775607,
+      "full_selection_count": 90,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 90
+    }
+  },
+  "adaptive_minus_baseline": {
+    "fixed_tokens_1000": {
+      "relevant_recall": {
+        "mean_difference": 0.5004894254792309,
+        "paired_bootstrap_95_percent_interval": [
+          0.4330269054953946,
+          0.5669656455941999
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": 0.31222444410872197,
+        "paired_bootstrap_95_percent_interval": [
+          0.2704184532851971,
+          0.3580871030715236
+        ]
+      },
+      "tokens": {
+        "mean_difference": 4238.2555555555555,
+        "paired_bootstrap_95_percent_interval": [
+          3480.4666666666667,
+          5001.555555555556
+        ]
+      }
+    },
+    "fixed_tokens_5000": {
+      "relevant_recall": {
+        "mean_difference": -0.06946610198348273,
+        "paired_bootstrap_95_percent_interval": [
+          -0.12680747784404495,
+          -0.012214922719110302
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": -0.1099503622302775,
+        "paired_bootstrap_95_percent_interval": [
+          -0.14837182391927245,
+          -0.0735635699798069
+        ]
+      },
+      "tokens": {
+        "mean_difference": 238.04444444444445,
+        "paired_bootstrap_95_percent_interval": [
+          -518.7222222222222,
+          1003.2
+        ]
+      }
+    },
+    "fixed_tokens_10000": {
+      "relevant_recall": {
+        "mean_difference": -0.2136202388900819,
+        "paired_bootstrap_95_percent_interval": [
+          -0.2735202038758882,
+          -0.15762843778272745
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": 0.07092296200951409,
+        "paired_bootstrap_95_percent_interval": [
+          0.017434876011653173,
+          0.12534644873738365
+        ]
+      },
+      "tokens": {
+        "mean_difference": -4764.366666666667,
+        "paired_bootstrap_95_percent_interval": [
+          -5520.377777777778,
+          -3999.3333333333335
+        ]
+      }
+    },
+    "full_context": {
+      "relevant_recall": {
+        "mean_difference": -0.33318896136520454,
+        "paired_bootstrap_95_percent_interval": [
+          -0.4038517656974441,
+          -0.26118100699246677
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": 0.20638000199914422,
+        "paired_bootstrap_95_percent_interval": [
+          0.14175313624378463,
+          0.27472968114035634
+        ]
+      },
+      "tokens": {
+        "mean_difference": -11761.9,
+        "paired_bootstrap_95_percent_interval": [
+          -12703.466666666667,
+          -10822.18888888889
+        ]
+      }
+    }
+  },
+  "by_split_adaptive_vs_fixed_tokens_5000": {
+    "college_2": {
+      "adaptive_k": {
+        "k": 318.22222222222223,
+        "tokens": 5806.666666666667,
+        "relevant_recall": 0.6137803481226985,
+        "relevant_precision": 0.5309760809261364,
+        "relevant_f1": 0.4963038772553511
+      },
+      "fixed_tokens_5000": {
+        "k": 269.44444444444446,
+        "tokens": 4987.166666666667,
+        "relevant_recall": 0.6805773157061502,
+        "relevant_precision": 0.5782010299836519,
+        "relevant_f1": 0.6244813057761368
+      }
+    },
+    "flight_4": {
+      "adaptive_k": {
+        "k": 213.61111111111111,
+        "tokens": 5317.611111111111,
+        "relevant_recall": 0.7186124862216324,
+        "relevant_precision": 0.7633753531919394,
+        "relevant_f1": 0.6552636963506603
+      },
+      "fixed_tokens_5000": {
+        "k": 188.33333333333334,
+        "tokens": 4988.555555555556,
+        "relevant_recall": 0.807037087199673,
+        "relevant_precision": 0.6668891825039496,
+        "relevant_f1": 0.7287553469466517
+      }
+    },
+    "soccer_1": {
+      "adaptive_k": {
+        "k": 81.61111111111111,
+        "tokens": 4410.722222222223,
+        "relevant_recall": 0.5868968839113644,
+        "relevant_precision": 0.7584563759177032,
+        "relevant_f1": 0.5871082293767212
+      },
+      "fixed_tokens_5000": {
+        "k": 101.22222222222223,
+        "tokens": 4968.555555555556,
+        "relevant_recall": 0.6721281029206178,
+        "relevant_precision": 0.6849894271515276,
+        "relevant_f1": 0.6685030833715166
+      }
+    },
+    "store_1": {
+      "adaptive_k": {
+        "k": 74.38888888888889,
+        "tokens": 3280.222222222222,
+        "relevant_recall": 0.554766736569893,
+        "relevant_precision": 0.8714850829272867,
+        "relevant_f1": 0.6066858246743906
+      },
+      "fixed_tokens_5000": {
+        "k": 135.94444444444446,
+        "tokens": 4980.333333333333,
+        "relevant_recall": 0.7607204398267574,
+        "relevant_precision": 0.8109629816291939,
+        "relevant_f1": 0.7833036648117644
+      }
+    },
+    "wine_1": {
+      "adaptive_k": {
+        "k": 206.5,
+        "tokens": 7285.055555555556,
+        "relevant_recall": 0.8599987383483889,
+        "relevant_precision": 0.5058697105041468,
+        "relevant_f1": 0.5852677922264014
+      },
+      "fixed_tokens_5000": {
+        "k": 126,
+        "tokens": 4985.444444444444,
+        "relevant_recall": 0.7609227574381925,
+        "relevant_precision": 0.6098814054815337,
+        "relevant_f1": 0.6753378301288425
+      }
+    }
+  },
+  "metric": "Item-level overlap against relevant_indices.",
+  "token_budget_definition": "Exact BGE-tokenizer chunk counts from the saved pilot; ranked chunks are added until the next chunk would exceed the stated budget.",
+  "interval_caveat": "Exploratory paired bootstrap, 2000 resamples; same questions for every method."
+}

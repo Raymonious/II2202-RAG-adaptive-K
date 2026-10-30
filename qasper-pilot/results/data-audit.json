@@ -1,0 +1,10 @@
+{
+  "papers": 888,
+  "questions": 2593,
+  "eligible_questions": 1830,
+  "eligible_papers": 787,
+  "unanswerable_or_disputed": 278,
+  "missing_evidence": 85,
+  "figure_table_evidence": 319,
+  "text_not_found": 81
+}

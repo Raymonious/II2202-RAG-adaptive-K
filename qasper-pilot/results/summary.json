@@ -1,0 +1,12 @@
+{
+  "questions": 10,
+  "device": "mps",
+  "retrieval_seconds_excluding_model_load": 15.600594166200608,
+  "adaptive_k_mean": 10.1,
+  "adaptive_k_min": 6,
+  "adaptive_k_max": 25,
+  "retrieves_everything_count": 2,
+  "adaptive_retrieved_bge_tokens": 12812,
+  "fixed_retrieved_bge_tokens": 6401,
+  "full_context_bge_tokens_sum_of_chunks": 39795
+}

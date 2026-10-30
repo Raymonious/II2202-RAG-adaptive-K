@@ -1,0 +1,186 @@
+{
+  "questions": 100,
+  "summary": {
+    "adaptive_k": {
+      "k": 44.63,
+      "tokens": 1847.24,
+      "evidence_character_recall": 0.5192340746712968,
+      "evidence_character_precision": 0.0886765109267763,
+      "evidence_character_f1": 0.1338919830904556,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 8,
+      "at_least_90_percent_evidence_count": 24
+    },
+    "gap_without_buffer_diagnostic": {
+      "k": 39.63,
+      "tokens": 1650.71,
+      "evidence_character_recall": 0.4702049964038851,
+      "evidence_character_precision": 0.10019664031165258,
+      "evidence_character_f1": 0.1396384514508513,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 14,
+      "at_least_90_percent_evidence_count": 21
+    },
+    "fixed_k_1": {
+      "k": 1,
+      "tokens": 46.95,
+      "evidence_character_recall": 0.0741473046304804,
+      "evidence_character_precision": 0.2923439434129089,
+      "evidence_character_f1": 0.10045700758647924,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 70,
+      "at_least_90_percent_evidence_count": 2
+    },
+    "fixed_k_3": {
+      "k": 3,
+      "tokens": 136.75,
+      "evidence_character_recall": 0.15489537728625685,
+      "evidence_character_precision": 0.22123854387689948,
+      "evidence_character_f1": 0.1564558446983836,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 45,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "fixed_k_5": {
+      "k": 5,
+      "tokens": 241.61,
+      "evidence_character_recall": 0.2031567960732498,
+      "evidence_character_precision": 0.16811096193402908,
+      "evidence_character_f1": 0.1618086564373462,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 34,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "fixed_k_10": {
+      "k": 10,
+      "tokens": 507.95,
+      "evidence_character_recall": 0.29894482150585155,
+      "evidence_character_precision": 0.12411161896865354,
+      "evidence_character_f1": 0.15835911091935925,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 20,
+      "at_least_90_percent_evidence_count": 6
+    },
+    "fixed_tokens_512": {
+      "k": 10.85,
+      "tokens": 465.91,
+      "evidence_character_recall": 0.3062415586991042,
+      "evidence_character_precision": 0.11875373761848694,
+      "evidence_character_f1": 0.1594979134710056,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 23,
+      "at_least_90_percent_evidence_count": 6
+    },
+    "fixed_tokens_1024": {
+      "k": 22.06,
+      "tokens": 983.45,
+      "evidence_character_recall": 0.4540972038427764,
+      "evidence_character_precision": 0.09104703075313579,
+      "evidence_character_f1": 0.1431730193669727,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 8,
+      "at_least_90_percent_evidence_count": 12
+    },
+    "fixed_tokens_2048": {
+      "k": 47.95,
+      "tokens": 1996.38,
+      "evidence_character_recall": 0.6663580391441278,
+      "evidence_character_precision": 0.06857820952639548,
+      "evidence_character_f1": 0.12013583239301905,
+      "full_selection_count": 2,
+      "zero_evidence_overlap_count": 2,
+      "at_least_90_percent_evidence_count": 28
+    },
+    "full_context": {
+      "k": 151.12,
+      "tokens": 5415.75,
+      "evidence_character_recall": 1.0,
+      "evidence_character_precision": 0.04848842357608151,
+      "evidence_character_f1": 0.08965139369624847,
+      "full_selection_count": 100,
+      "zero_evidence_overlap_count": 0,
+      "at_least_90_percent_evidence_count": 100
+    }
+  },
+  "adaptive_minus_baseline": {
+    "fixed_k_5": {
+      "evidence_character_recall": {
+        "mean_difference": 0.31607727859804696,
+        "paired_bootstrap_95_percent_interval": [
+          0.25421613201993404,
+          0.37935413772666704
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.027916673346890623,
+        "paired_bootstrap_95_percent_interval": [
+          -0.060162688633801836,
+          0.0026354564624897136
+        ]
+      },
+      "tokens": {
+        "mean_difference": 1605.63,
+        "paired_bootstrap_95_percent_interval": [
+          1241.94,
+          2003.32
+        ]
+      }
+    },
+    "fixed_k_10": {
+      "evidence_character_recall": {
+        "mean_difference": 0.2202892531654452,
+        "paired_bootstrap_95_percent_interval": [
+          0.16430382681603198,
+          0.27917725616346417
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.024467127828903652,
+        "paired_bootstrap_95_percent_interval": [
+          -0.04354288486869329,
+          -0.004788495396991115
+        ]
+      },
+      "tokens": {
+        "mean_difference": 1339.29,
+        "paired_bootstrap_95_percent_interval": [
+          978.81,
+          1741.51
+        ]
+      }
+    },
+    "fixed_tokens_1024": {
+      "evidence_character_recall": {
+        "mean_difference": 0.06513687082852039,
+        "paired_bootstrap_95_percent_interval": [
+          0.000692841081305596,
+          0.1268346011804546
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.009281036276517078,
+        "paired_bootstrap_95_percent_interval": [
+          -0.02335020757168977,
+          0.004287202844305921
+        ]
+      },
+      "tokens": {
+        "mean_difference": 863.79,
+        "paired_bootstrap_95_percent_interval": [
+          493.12,
+          1258.37
+        ]
+      }
+    }
+  },
+  "retrieval_seconds": 817.6222508760003,
+  "chunks_min_median_max": [
+    31,
+    140.5,
+    401
+  ],
+  "gap_rank_1_count": 0,
+  "metric": "Non-whitespace character overlap at source offsets, against annotated evidence paragraphs; best F1 annotation. Not official Evidence F1.",
+  "budget_rule": "Largest ranked prefix whose summed BGE-token counts do not exceed the budget.",
+  "interval_caveat": "Exploratory paired bootstrap, 2000 resamples; one question per paper. No multiplicity adjustment."
+}

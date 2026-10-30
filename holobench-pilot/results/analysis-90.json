@@ -1,0 +1,112 @@
+{
+  "questions": 90,
+  "summary": {
+    "adaptive_k": {
+      "k": 178.86666666666667,
+      "tokens": 5220.055555555556,
+      "relevant_recall": 0.6668110386347954,
+      "relevant_precision": 0.6860325206934424,
+      "relevant_f1": 0.586125883976705,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 40
+    },
+    "fixed_k_5": {
+      "k": 5,
+      "tokens": 194.48888888888888,
+      "relevant_recall": 0.03277686842173434,
+      "relevant_precision": 0.7777777777777778,
+      "relevant_f1": 0.06245820367277266,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 12,
+      "at_least_90_percent_recall_count": 0
+    },
+    "fixed_k_10": {
+      "k": 10,
+      "tokens": 389.9,
+      "relevant_recall": 0.0657447937852374,
+      "relevant_precision": 0.7833333333333333,
+      "relevant_f1": 0.11973935044224072,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 9,
+      "at_least_90_percent_recall_count": 0
+    },
+    "gap_without_buffer_diagnostic": {
+      "k": 173.86666666666667,
+      "tokens": 5071.4111111111115,
+      "relevant_recall": 0.6545547941692701,
+      "relevant_precision": 0.7007124568686174,
+      "relevant_f1": 0.5819976358409288,
+      "full_selection_count": 0,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 40
+    },
+    "full_context": {
+      "k": 635.6555555555556,
+      "tokens": 16981.955555555556,
+      "relevant_recall": 1.0,
+      "relevant_precision": 0.24051064308285594,
+      "relevant_f1": 0.3797458819775607,
+      "full_selection_count": 90,
+      "zero_relevant_overlap_count": 0,
+      "at_least_90_percent_recall_count": 90
+    }
+  },
+  "adaptive_minus_baseline": {
+    "fixed_k_5": {
+      "relevant_recall": {
+        "mean_difference": 0.6340341702130611,
+        "paired_bootstrap_95_percent_interval": [
+          0.5652668472131149,
+          0.7038258220209492
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": 0.5236676803039323,
+        "paired_bootstrap_95_percent_interval": [
+          0.47768783128105785,
+          0.5742208027702789
+        ]
+      },
+      "tokens": {
+        "mean_difference": 5025.566666666667,
+        "paired_bootstrap_95_percent_interval": [
+          4276.166666666667,
+          5790.1
+        ]
+      }
+    },
+    "fixed_k_10": {
+      "relevant_recall": {
+        "mean_difference": 0.6010662448495581,
+        "paired_bootstrap_95_percent_interval": [
+          0.5338487180268155,
+          0.6688900714224735
+        ]
+      },
+      "relevant_f1": {
+        "mean_difference": 0.4663865335344642,
+        "paired_bootstrap_95_percent_interval": [
+          0.4242982188749131,
+          0.5143040342878747
+        ]
+      },
+      "tokens": {
+        "mean_difference": 4830.155555555555,
+        "paired_bootstrap_95_percent_interval": [
+          4080.588888888889,
+          5593.344444444445
+        ]
+      }
+    }
+  },
+  "retrieval_seconds": 684.1188334589824,
+  "chunks_min_median_max": [
+    424,
+    573.0,
+    887
+  ],
+  "gap_rank_1_count": 0,
+  "metric": "Item-level overlap against relevant_indices (query-referenced table rows).",
+  "interval_caveat": "Exploratory paired bootstrap, 2000 resamples; 18 questions per split, 5 splits."
+}

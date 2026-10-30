@@ -1,0 +1,125 @@
+Generating wine_1 split:   0%|          | 0/18 [00:00<?, ? examples/s]Generating wine_1 split: 100%|██████████| 18/18 [00:00<00:00, 1636.20 examples/s]
+Generating college_2 split:   0%|          | 0/18 [00:00<?, ? examples/s]Generating college_2 split: 100%|██████████| 18/18 [00:00<00:00, 4232.16 examples/s]
+Generating flight_4 split:   0%|          | 0/18 [00:00<?, ? examples/s]Generating flight_4 split: 100%|██████████| 18/18 [00:00<00:00, 4654.59 examples/s]
+Generating store_1 split:   0%|          | 0/18 [00:00<?, ? examples/s]Generating store_1 split: 100%|██████████| 18/18 [00:00<00:00, 6074.79 examples/s]
+Generating soccer_1 split:   0%|          | 0/18 [00:00<?, ? examples/s]Generating soccer_1 split: 100%|██████████| 18/18 [00:00<00:00, 7340.54 examples/s]
+Generating appellations split:   0%|          | 0/49 [00:00<?, ? examples/s]Generating appellations split: 100%|██████████| 49/49 [00:00<00:00, 14552.21 examples/s]
+Generating grapes split:   0%|          | 0/20 [00:00<?, ? examples/s]Generating grapes split: 100%|██████████| 20/20 [00:00<00:00, 12879.79 examples/s]
+Generating wine split:   0%|          | 0/486 [00:00<?, ? examples/s]Generating wine split: 100%|██████████| 486/486 [00:00<00:00, 76913.25 examples/s]
+Generating dummy split:   0%|          | 0/10 [00:00<?, ? examples/s]Generating dummy split: 100%|██████████| 10/10 [00:00<00:00, 6373.35 examples/s]
+1/90 wine_1: 497 chunks, 107 relevant; gap selects 217, buffered k=222
+2/90 wine_1: 529 chunks, 96 relevant; gap selects 252, buffered k=257
+3/90 wine_1: 450 chunks, 150 relevant; gap selects 367, buffered k=372
+4/90 wine_1: 529 chunks, 96 relevant; gap selects 270, buffered k=275
+5/90 wine_1: 529 chunks, 96 relevant; gap selects 270, buffered k=275
+6/90 wine_1: 529 chunks, 96 relevant; gap selects 270, buffered k=275
+7/90 wine_1: 529 chunks, 96 relevant; gap selects 265, buffered k=270
+8/90 wine_1: 529 chunks, 96 relevant; gap selects 264, buffered k=269
+9/90 wine_1: 522 chunks, 113 relevant; gap selects 65, buffered k=70
+10/90 wine_1: 529 chunks, 96 relevant; gap selects 270, buffered k=275
+11/90 wine_1: 529 chunks, 96 relevant; gap selects 159, buffered k=164
+12/90 wine_1: 497 chunks, 107 relevant; gap selects 177, buffered k=182
+13/90 wine_1: 522 chunks, 113 relevant; gap selects 147, buffered k=152
+14/90 wine_1: 522 chunks, 113 relevant; gap selects 64, buffered k=69
+15/90 wine_1: 522 chunks, 113 relevant; gap selects 29, buffered k=34
+16/90 wine_1: 497 chunks, 107 relevant; gap selects 160, buffered k=165
+17/90 wine_1: 529 chunks, 96 relevant; gap selects 117, buffered k=122
+18/90 wine_1: 529 chunks, 96 relevant; gap selects 264, buffered k=269
+Generating teaches split:   0%|          | 0/72 [00:00<?, ? examples/s]Generating teaches split: 100%|██████████| 72/72 [00:00<00:00, 17669.53 examples/s]
+Generating student split:   0%|          | 0/1568 [00:00<?, ? examples/s]Generating student split: 100%|██████████| 1568/1568 [00:00<00:00, 197651.88 examples/s]
+Generating instructor split:   0%|          | 0/50 [00:00<?, ? examples/s]Generating instructor split: 100%|██████████| 50/50 [00:00<00:00, 22463.07 examples/s]
+Generating section split:   0%|          | 0/72 [00:00<?, ? examples/s]Generating section split: 100%|██████████| 72/72 [00:00<00:00, 40787.40 examples/s]
+Generating prereq split:   0%|          | 0/41 [00:00<?, ? examples/s]Generating prereq split: 100%|██████████| 41/41 [00:00<00:00, 26958.22 examples/s]
+Generating department split:   0%|          | 0/20 [00:00<?, ? examples/s]Generating department split: 100%|██████████| 20/20 [00:00<00:00, 15697.25 examples/s]
+Generating advisor split:   0%|          | 0/1568 [00:00<?, ? examples/s]Generating advisor split: 100%|██████████| 1568/1568 [00:00<00:00, 261321.12 examples/s]
+Generating course split:   0%|          | 0/133 [00:00<?, ? examples/s]Generating course split: 100%|██████████| 133/133 [00:00<00:00, 89555.70 examples/s]
+Generating classroom split:   0%|          | 0/30 [00:00<?, ? examples/s]Generating classroom split: 100%|██████████| 30/30 [00:00<00:00, 28429.53 examples/s]
+Generating dummy split:   0%|          | 0/10 [00:00<?, ? examples/s]Generating dummy split: 100%|██████████| 10/10 [00:00<00:00, 10462.22 examples/s]
+19/90 college_2: 871 chunks, 240 relevant; gap selects 184, buffered k=189
+20/90 college_2: 870 chunks, 233 relevant; gap selects 106, buffered k=111
+21/90 college_2: 887 chunks, 260 relevant; gap selects 79, buffered k=84
+22/90 college_2: 871 chunks, 240 relevant; gap selects 56, buffered k=61
+23/90 college_2: 850 chunks, 217 relevant; gap selects 163, buffered k=168
+24/90 college_2: 872 chunks, 196 relevant; gap selects 634, buffered k=639
+25/90 college_2: 871 chunks, 240 relevant; gap selects 247, buffered k=252
+26/90 college_2: 866 chunks, 229 relevant; gap selects 79, buffered k=84
+27/90 college_2: 872 chunks, 249 relevant; gap selects 692, buffered k=697
+28/90 college_2: 872 chunks, 249 relevant; gap selects 682, buffered k=687
+29/90 college_2: 874 chunks, 245 relevant; gap selects 148, buffered k=153
+30/90 college_2: 837 chunks, 197 relevant; gap selects 155, buffered k=160
+31/90 college_2: 868 chunks, 248 relevant; gap selects 630, buffered k=635
+32/90 college_2: 865 chunks, 220 relevant; gap selects 715, buffered k=720
+33/90 college_2: 872 chunks, 229 relevant; gap selects 145, buffered k=150
+34/90 college_2: 873 chunks, 197 relevant; gap selects 134, buffered k=139
+35/90 college_2: 869 chunks, 222 relevant; gap selects 652, buffered k=657
+36/90 college_2: 866 chunks, 229 relevant; gap selects 137, buffered k=142
+Generating routes split:   0%|          | 0/64722 [00:00<?, ? examples/s]Generating routes split:  46%|████▋     | 30000/64722 [00:00<00:00, 201669.59 examples/s]Generating routes split: 100%|██████████| 64722/64722 [00:00<00:00, 228399.94 examples/s]Generating routes split: 100%|██████████| 64722/64722 [00:00<00:00, 224071.69 examples/s]
+Generating airports split:   0%|          | 0/5578 [00:00<?, ? examples/s]Generating airports split: 100%|██████████| 5578/5578 [00:00<00:00, 451221.36 examples/s]
+Generating airlines split:   0%|          | 0/1122 [00:00<?, ? examples/s]Generating airlines split: 100%|██████████| 1122/1122 [00:00<00:00, 419430.40 examples/s]
+Generating dummy split:   0%|          | 0/10 [00:00<?, ? examples/s]Generating dummy split: 100%|██████████| 10/10 [00:00<00:00, 13534.38 examples/s]
+37/90 flight_4: 656 chunks, 180 relevant; gap selects 172, buffered k=177
+38/90 flight_4: 656 chunks, 180 relevant; gap selects 176, buffered k=181
+39/90 flight_4: 706 chunks, 132 relevant; gap selects 60, buffered k=65
+40/90 flight_4: 706 chunks, 132 relevant; gap selects 70, buffered k=75
+41/90 flight_4: 656 chunks, 180 relevant; gap selects 176, buffered k=181
+42/90 flight_4: 778 chunks, 155 relevant; gap selects 99, buffered k=104
+43/90 flight_4: 700 chunks, 166 relevant; gap selects 60, buffered k=65
+44/90 flight_4: 656 chunks, 180 relevant; gap selects 249, buffered k=254
+45/90 flight_4: 656 chunks, 180 relevant; gap selects 137, buffered k=142
+46/90 flight_4: 656 chunks, 180 relevant; gap selects 175, buffered k=180
+47/90 flight_4: 706 chunks, 132 relevant; gap selects 335, buffered k=340
+48/90 flight_4: 706 chunks, 132 relevant; gap selects 76, buffered k=81
+49/90 flight_4: 706 chunks, 132 relevant; gap selects 36, buffered k=41
+50/90 flight_4: 706 chunks, 132 relevant; gap selects 634, buffered k=639
+51/90 flight_4: 700 chunks, 166 relevant; gap selects 94, buffered k=99
+52/90 flight_4: 656 chunks, 180 relevant; gap selects 559, buffered k=564
+53/90 flight_4: 706 chunks, 132 relevant; gap selects 37, buffered k=42
+54/90 flight_4: 706 chunks, 132 relevant; gap selects 610, buffered k=615
+Generating tracks split:   0%|          | 0/2329 [00:00<?, ? examples/s]Generating tracks split: 100%|██████████| 2329/2329 [00:00<00:00, 105437.07 examples/s]
+Generating invoices split:   0%|          | 0/203 [00:00<?, ? examples/s]Generating invoices split: 100%|██████████| 203/203 [00:00<00:00, 61166.93 examples/s]
+Generating customers split:   0%|          | 0/9 [00:00<?, ? examples/s]Generating customers split: 100%|██████████| 9/9 [00:00<00:00, 5714.31 examples/s]
+Generating employees split:   0%|          | 0/7 [00:00<?, ? examples/s]Generating employees split: 100%|██████████| 7/7 [00:00<00:00, 6038.69 examples/s]
+Generating dummy split:   0%|          | 0/10 [00:00<?, ? examples/s]Generating dummy split: 100%|██████████| 10/10 [00:00<00:00, 9381.13 examples/s]
+55/90 store_1: 573 chunks, 202 relevant; gap selects 57, buffered k=62
+56/90 store_1: 677 chunks, 88 relevant; gap selects 88, buffered k=93
+57/90 store_1: 538 chunks, 168 relevant; gap selects 41, buffered k=46
+58/90 store_1: 677 chunks, 88 relevant; gap selects 88, buffered k=93
+59/90 store_1: 677 chunks, 88 relevant; gap selects 91, buffered k=96
+60/90 store_1: 677 chunks, 88 relevant; gap selects 88, buffered k=93
+61/90 store_1: 485 chunks, 214 relevant; gap selects 40, buffered k=45
+62/90 store_1: 485 chunks, 214 relevant; gap selects 44, buffered k=49
+63/90 store_1: 677 chunks, 88 relevant; gap selects 93, buffered k=98
+64/90 store_1: 538 chunks, 168 relevant; gap selects 42, buffered k=47
+65/90 store_1: 677 chunks, 88 relevant; gap selects 87, buffered k=92
+66/90 store_1: 573 chunks, 202 relevant; gap selects 190, buffered k=195
+67/90 store_1: 677 chunks, 88 relevant; gap selects 77, buffered k=82
+68/90 store_1: 677 chunks, 88 relevant; gap selects 88, buffered k=93
+69/90 store_1: 477 chunks, 209 relevant; gap selects 41, buffered k=46
+70/90 store_1: 477 chunks, 209 relevant; gap selects 27, buffered k=32
+71/90 store_1: 538 chunks, 168 relevant; gap selects 32, buffered k=37
+72/90 store_1: 477 chunks, 209 relevant; gap selects 35, buffered k=40
+Generating Player_Attributes split:   0%|          | 0/173977 [00:00<?, ? examples/s]Generating Player_Attributes split:   6%|▌         | 10000/173977 [00:00<00:01, 89867.29 examples/s]Generating Player_Attributes split:  17%|█▋        | 30000/173977 [00:00<00:01, 109544.76 examples/s]Generating Player_Attributes split:  29%|██▊       | 50000/173977 [00:00<00:01, 116242.86 examples/s]Generating Player_Attributes split:  40%|████      | 70000/173977 [00:00<00:00, 117099.31 examples/s]Generating Player_Attributes split:  52%|█████▏    | 90000/173977 [00:00<00:00, 117875.07 examples/s]Generating Player_Attributes split:  63%|██████▎   | 110000/173977 [00:00<00:00, 119659.25 examples/s]Generating Player_Attributes split:  75%|███████▍  | 130000/173977 [00:01<00:00, 120323.50 examples/s]Generating Player_Attributes split:  86%|████████▌ | 150000/173977 [00:01<00:00, 121147.24 examples/s]Generating Player_Attributes split:  98%|█████████▊| 170000/173977 [00:01<00:00, 120687.46 examples/s]Generating Player_Attributes split: 100%|██████████| 173977/173977 [00:01<00:00, 118369.57 examples/s]
+Generating Team_Attributes split:   0%|          | 0/487 [00:00<?, ? examples/s]Generating Team_Attributes split: 100%|██████████| 487/487 [00:00<00:00, 104391.38 examples/s]
+Generating Team split:   0%|          | 0/285 [00:00<?, ? examples/s]Generating Team split: 100%|██████████| 285/285 [00:00<00:00, 210009.95 examples/s]
+Generating Player split:   0%|          | 0/10848 [00:00<?, ? examples/s]Generating Player split: 100%|██████████| 10848/10848 [00:00<00:00, 549627.46 examples/s]
+Generating League split:   0%|          | 0/11 [00:00<?, ? examples/s]Generating League split: 100%|██████████| 11/11 [00:00<00:00, 12074.68 examples/s]
+Generating dummy split:   0%|          | 0/10 [00:00<?, ? examples/s]Generating dummy split: 100%|██████████| 10/10 [00:00<00:00, 16213.00 examples/s]
+73/90 soccer_1: 500 chunks, 205 relevant; gap selects 65, buffered k=70
+74/90 soccer_1: 543 chunks, 57 relevant; gap selects 56, buffered k=61
+75/90 soccer_1: 500 chunks, 205 relevant; gap selects 45, buffered k=50
+76/90 soccer_1: 532 chunks, 89 relevant; gap selects 61, buffered k=66
+77/90 soccer_1: 572 chunks, 242 relevant; gap selects 32, buffered k=37
+78/90 soccer_1: 500 chunks, 205 relevant; gap selects 41, buffered k=46
+79/90 soccer_1: 532 chunks, 89 relevant; gap selects 32, buffered k=37
+80/90 soccer_1: 532 chunks, 89 relevant; gap selects 45, buffered k=50
+81/90 soccer_1: 500 chunks, 205 relevant; gap selects 97, buffered k=102
+82/90 soccer_1: 543 chunks, 57 relevant; gap selects 180, buffered k=185
+83/90 soccer_1: 543 chunks, 57 relevant; gap selects 199, buffered k=204
+84/90 soccer_1: 543 chunks, 57 relevant; gap selects 53, buffered k=58
+85/90 soccer_1: 424 chunks, 150 relevant; gap selects 97, buffered k=102
+86/90 soccer_1: 543 chunks, 57 relevant; gap selects 63, buffered k=68
+87/90 soccer_1: 449 chunks, 106 relevant; gap selects 68, buffered k=73
+88/90 soccer_1: 449 chunks, 106 relevant; gap selects 128, buffered k=133
+89/90 soccer_1: 532 chunks, 89 relevant; gap selects 74, buffered k=79
+90/90 soccer_1: 532 chunks, 89 relevant; gap selects 43, buffered k=48
+Saved results/pilot-90.jsonl and results/pilot-90.config.json

@@ -1,0 +1,47 @@
+2026-10-14 18:24:09,809 - INFO - Loading faiss.
+2026-10-14 18:24:09,836 - INFO - Successfully loaded faiss.
+2026-10-14 18:29:48,641 - INFO - Loading faiss.
+2026-10-14 18:29:48,670 - INFO - Successfully loaded faiss.
+2026-10-14 18:34:10,962 - INFO - Loading faiss.
+2026-10-14 18:34:10,988 - INFO - Successfully loaded faiss.
+2026-10-14 18:34:11,808 - INFO - Loading the data...
+2026-10-14 18:37:31,051 - INFO - Loading faiss.
+2026-10-14 18:37:31,078 - INFO - Successfully loaded faiss.
+2026-10-14 18:37:31,353 - INFO - Loading the data...
+2026-10-14 18:38:23,054 - INFO - Loaded 2 samples from holobench.
+2026-10-14 18:38:23,073 - INFO - Use pytorch device_name: mps
+2026-10-14 18:38:23,073 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 18:44:42,133 - INFO - Loading faiss.
+2026-10-14 18:44:42,159 - INFO - Successfully loaded faiss.
+2026-10-14 18:44:42,422 - INFO - Loading the data...
+2026-10-14 18:45:05,227 - INFO - Loaded 2 samples from holobench.
+2026-10-14 18:45:05,240 - INFO - Use pytorch device_name: mps
+2026-10-14 18:45:05,241 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 18:48:51,259 - INFO - Loading faiss.
+2026-10-14 18:48:51,272 - INFO - Successfully loaded faiss.
+2026-10-14 18:48:51,511 - INFO - Loading the data...
+2026-10-14 18:49:14,905 - INFO - Loaded 2 samples from holobench.
+2026-10-14 18:49:14,917 - INFO - Use pytorch device_name: mps
+2026-10-14 18:49:14,917 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 18:51:30,820 - INFO - DONE.
+2026-10-14 18:55:41,968 - INFO - Loading faiss.
+2026-10-14 18:55:41,982 - INFO - Successfully loaded faiss.
+2026-10-14 18:55:42,221 - INFO - Loading the data...
+2026-10-14 18:56:04,739 - INFO - Loaded 2 samples from holobench.
+2026-10-14 18:56:04,750 - INFO - Use pytorch device_name: mps
+2026-10-14 18:56:04,750 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 18:58:18,268 - INFO - DONE.
+2026-10-14 19:01:24,928 - INFO - Loading faiss.
+2026-10-14 19:01:24,941 - INFO - Successfully loaded faiss.
+2026-10-14 19:01:25,187 - INFO - Loading the data...
+2026-10-14 19:01:47,673 - INFO - Loaded 90 samples from holobench.
+2026-10-14 19:01:47,687 - INFO - Use pytorch device_name: mps
+2026-10-14 19:01:47,687 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 21:10:58,245 - INFO - DONE.
+2026-10-14 21:16:58,531 - INFO - Loading faiss.
+2026-10-14 21:16:58,544 - INFO - Successfully loaded faiss.
+2026-10-14 21:16:58,789 - INFO - Loading the data...
+2026-10-14 21:17:21,797 - INFO - Loaded 90 samples from holobench.
+2026-10-14 21:17:21,810 - INFO - Use pytorch device_name: mps
+2026-10-14 21:17:21,811 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2026-10-14 23:43:40,688 - INFO - DONE.

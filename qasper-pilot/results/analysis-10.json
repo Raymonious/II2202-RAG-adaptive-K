@@ -1,0 +1,186 @@
+{
+  "questions": 10,
+  "summary": {
+    "adaptive_k": {
+      "k": 10.1,
+      "tokens": 1281.2,
+      "evidence_character_recall": 0.5836754881723383,
+      "evidence_character_precision": 0.07094884143941949,
+      "evidence_character_f1": 0.11933987806664587,
+      "full_selection_count": 2,
+      "zero_evidence_overlap_count": 3,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "gap_without_buffer_diagnostic": {
+      "k": 5.1,
+      "tokens": 652.6,
+      "evidence_character_recall": 0.3764044625665421,
+      "evidence_character_precision": 0.07918487373475455,
+      "evidence_character_f1": 0.11127800252880286,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 5,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "fixed_k_1": {
+      "k": 1,
+      "tokens": 128.1,
+      "evidence_character_recall": 0.17640446256654208,
+      "evidence_character_precision": 0.12164527400203616,
+      "evidence_character_f1": 0.09770953234781858,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 7,
+      "at_least_90_percent_evidence_count": 1
+    },
+    "fixed_k_3": {
+      "k": 3,
+      "tokens": 384.1,
+      "evidence_character_recall": 0.22149179881108358,
+      "evidence_character_precision": 0.06440393145341165,
+      "evidence_character_f1": 0.08310936382546981,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 6,
+      "at_least_90_percent_evidence_count": 1
+    },
+    "fixed_k_5": {
+      "k": 5,
+      "tokens": 640.1,
+      "evidence_character_recall": 0.380835312491468,
+      "evidence_character_precision": 0.08718741442360836,
+      "evidence_character_f1": 0.1287489473030923,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 5,
+      "at_least_90_percent_evidence_count": 1
+    },
+    "fixed_k_10": {
+      "k": 10,
+      "tokens": 1274.6,
+      "evidence_character_recall": 0.6932442455805387,
+      "evidence_character_precision": 0.08317299220415522,
+      "evidence_character_f1": 0.1433996551821481,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 1,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "fixed_tokens_512": {
+      "k": 3.9,
+      "tokens": 499.3,
+      "evidence_character_recall": 0.25380620929143294,
+      "evidence_character_precision": 0.06492565068764602,
+      "evidence_character_f1": 0.09135468785192832,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 6,
+      "at_least_90_percent_evidence_count": 1
+    },
+    "fixed_tokens_1024": {
+      "k": 8,
+      "tokens": 1024,
+      "evidence_character_recall": 0.6717137656843,
+      "evidence_character_precision": 0.09930841765430502,
+      "evidence_character_f1": 0.16599979428622272,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 2,
+      "at_least_90_percent_evidence_count": 3
+    },
+    "fixed_tokens_2048": {
+      "k": 15.7,
+      "tokens": 2000.1,
+      "evidence_character_recall": 0.8628249467191349,
+      "evidence_character_precision": 0.0662587553161871,
+      "evidence_character_f1": 0.12054017723339493,
+      "full_selection_count": 0,
+      "zero_evidence_overlap_count": 1,
+      "at_least_90_percent_evidence_count": 7
+    },
+    "full_context": {
+      "k": 31.6,
+      "tokens": 3979.5,
+      "evidence_character_recall": 1.0,
+      "evidence_character_precision": 0.047454315280659264,
+      "evidence_character_f1": 0.08918881344369052,
+      "full_selection_count": 10,
+      "zero_evidence_overlap_count": 0,
+      "at_least_90_percent_evidence_count": 10
+    }
+  },
+  "adaptive_minus_baseline": {
+    "fixed_k_5": {
+      "evidence_character_recall": {
+        "mean_difference": 0.20284017568087026,
+        "paired_bootstrap_95_percent_interval": [
+          0.042323023917311006,
+          0.4148595200700498
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.009409069236446441,
+        "paired_bootstrap_95_percent_interval": [
+          -0.1075076197340628,
+          0.08998201985812197
+        ]
+      },
+      "tokens": {
+        "mean_difference": 641.1,
+        "paired_bootstrap_95_percent_interval": [
+          191.7,
+          1283.9
+        ]
+      }
+    },
+    "fixed_k_10": {
+      "evidence_character_recall": {
+        "mean_difference": -0.10956875740820038,
+        "paired_bootstrap_95_percent_interval": [
+          -0.3215304798962387,
+          0.023923444976076548
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.02405977711550222,
+        "paired_bootstrap_95_percent_interval": [
+          -0.07943820521309894,
+          0.026560535896017527
+        ]
+      },
+      "tokens": {
+        "mean_difference": 6.6,
+        "paired_bootstrap_95_percent_interval": [
+          -442.7,
+          649.4
+        ]
+      }
+    },
+    "fixed_tokens_1024": {
+      "evidence_character_recall": {
+        "mean_difference": -0.08803827751196172,
+        "paired_bootstrap_95_percent_interval": [
+          -0.3,
+          0.03588516746411482
+        ]
+      },
+      "evidence_character_f1": {
+        "mean_difference": -0.046659916219576845,
+        "paired_bootstrap_95_percent_interval": [
+          -0.11146909527287026,
+          0.00880946593158244
+        ]
+      },
+      "tokens": {
+        "mean_difference": 257.2,
+        "paired_bootstrap_95_percent_interval": [
+          -192,
+          899.9
+        ]
+      }
+    }
+  },
+  "retrieval_seconds": 15.600594166200608,
+  "chunks_min_median_max": [
+    20,
+    26.0,
+    50
+  ],
+  "gap_rank_1_count": 4,
+  "metric": "Non-whitespace character overlap at source offsets, against annotated evidence paragraphs; best F1 annotation. Not official Evidence F1.",
+  "budget_rule": "Largest ranked prefix whose summed BGE-token counts do not exceed the budget.",
+  "interval_caveat": "Exploratory paired bootstrap, 2000 resamples; one question per paper. No multiplicity adjustment."
+}

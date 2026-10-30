@@ -1,0 +1,1916 @@
+[
+    {
+        "question": "What are the names of wines and their corresponding grape types?",
+        "sample_idx": 0,
+        "retrieved_docs": [
+            {
+                "psg_id": 2413,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1736,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 875,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1798,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1428,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 198,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1921,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1367,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 13,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1305,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1982,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 567,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2044,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 382,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 628,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1244,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2105,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1182,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1121,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2474,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 813,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 505,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 259,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 75,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2351,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2536,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1675,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2167,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1059,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 444,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 2228,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 998,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642633080482483
+            },
+            {
+                "psg_id": 1490,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 2290,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 936,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 136,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 690,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 321,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 1859,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 1551,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 1613,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 751,
+                "chunk": "Wine regions around the world offer distinct characteristics influenced by climate, soil, and local traditions. Exploring these regions can provide insights into the diversity of wines and the unique profiles they offer.",
+                "score": 0.6642632484436035
+            },
+            {
+                "psg_id": 616,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1416,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1231,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1108,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2462,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1724,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 124,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 247,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 554,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 801,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1662,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2154,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 677,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1170,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1600,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1785,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2216,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2093,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2400,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 62,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1047,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1539,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 739,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 308,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1293,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 862,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 1847,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            },
+            {
+                "psg_id": 2277,
+                "chunk": "Wine tasting events often showcase a variety of selections, allowing enthusiasts to explore different flavors and aromas. These gatherings provide an opportunity to learn about the intricacies of wine production and the art of pairing wines with food.",
+                "score": 0.6593522429466248
+            }
+        ],
+        "retrieval_time": 60.821261167526245,
+        "num_retrieved_docs": "71",
+        "reduction_ratio": 0.9726607624181748,
+        "true_k": "532",
+        "positive_docs": [
+            {
+                "psg_id": 24,
+                "title": "wine_1",
+                "text": "The Barbera grape, recognized for its Red shade, is often featured in wine tastings."
+            },
+            {
+                "psg_id": 48,
+                "title": "wine_1",
+                "text": "The 2008 Old Kraft Vineyard by Robert Biale is a delightful Zinfandel from St. Helena, California. With a price of $44 and a score of 93, only 275 cases are available."
+            },
+            {
+                "psg_id": 72,
+                "title": "wine_1",
+                "text": "The Cabernet Franc grape, recognized for its Red hue, is a staple in many vineyards."
+            },
+            {
+                "psg_id": 97,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Zinfandel from Chiarello Family, found in Napa Valley, California. This 2008 vintage of Giana, available for $35, has earned a stellar 93. Best enjoyed now."
+            },
+            {
+                "psg_id": 121,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon variety, characterized by its Red shade, is often celebrated for its rich taste."
+            },
+            {
+                "psg_id": 145,
+                "title": "wine_1",
+                "text": "Discover the Zinfandel excellence of Black Chicken by Robert Biale, produced in the Napa Valley of California. This 2008 vintage is priced at $40 and has earned a score of 91, with 2700 cases made."
+            },
+            {
+                "psg_id": 169,
+                "title": "wine_1",
+                "text": "Renowned for its White hue, the Chardonnay grape is a favorite among wine lovers."
+            },
+            {
+                "psg_id": 194,
+                "title": "wine_1",
+                "text": "The Zinfandel wine Napa Ranches from Robert Biale in Napa Valley, California, offers exceptional taste. This 2008 vintage is available for $38 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 218,
+                "title": "wine_1",
+                "text": "A Red grape, the Grenache is often used in blends to enhance complexity."
+            },
+            {
+                "psg_id": 242,
+                "title": "wine_1",
+                "text": "Experience the exquisite Zinfandel wine from Robert Biale, crafted in the St. Helena of California. The Varozza Vineyard from 2008 is priced at $44 and has earned an impressive score of 88."
+            },
+            {
+                "psg_id": 266,
+                "title": "wine_1",
+                "text": "The Malbec grape, recognized for its Red shade, is often featured in wine tastings."
+            },
+            {
+                "psg_id": 291,
+                "title": "wine_1",
+                "text": "The 2008 Mother Clone by Pedroncelli is a delightful Zinfandel from Dry Creek Valley, California. With a price of $15 and a score of 88, only 6000 cases are available."
+            },
+            {
+                "psg_id": 315,
+                "title": "wine_1",
+                "text": "The Marsanne grape, recognized for its White hue, is a staple in many vineyards."
+            },
+            {
+                "psg_id": 339,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Zinfandel from Rutherford Ranch, found in Napa Valley, California. This 2007 vintage of Zinfandel, available for $18, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 364,
+                "title": "wine_1",
+                "text": "The Merlot variety, characterized by its Red shade, is often celebrated for its rich taste."
+            },
+            {
+                "psg_id": 388,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Altamura, produced in the Napa Valley of California. This 2007 vintage is priced at $48 and has earned a score of 92, with 500 cases made."
+            },
+            {
+                "psg_id": 412,
+                "title": "wine_1",
+                "text": "Renowned for its Red hue, the Mourvedre grape is a favorite among wine lovers."
+            },
+            {
+                "psg_id": 436,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Les Pionniers from Capture in Sonoma County, California, offers exceptional taste. This 2009 vintage is available for $36 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 461,
+                "title": "wine_1",
+                "text": "A White grape, the Muscat is often used in blends to enhance complexity."
+            },
+            {
+                "psg_id": 485,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Brander, crafted in the Santa Ynez Valley of California. The Cuvee Nicolas from 2009 is priced at $25 and has earned an impressive score of 91."
+            },
+            {
+                "psg_id": 509,
+                "title": "wine_1",
+                "text": "The Petite Sirah grape, recognized for its Red shade, is often featured in wine tastings."
+            },
+            {
+                "psg_id": 533,
+                "title": "wine_1",
+                "text": "The 2009 Tradition by Capture is a delightful Sauvignon Blanc from California, California. With a price of $30 and a score of 91, only 875 cases are available."
+            },
+            {
+                "psg_id": 558,
+                "title": "wine_1",
+                "text": "The Pinot Noir grape, recognized for its Red hue, is a staple in many vineyards."
+            },
+            {
+                "psg_id": 582,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from John Anthony, found in Carneros, California. This 2009 vintage of Church Vineyard, available for $28, has earned a stellar 91. Best enjoyed now."
+            },
+            {
+                "psg_id": 606,
+                "title": "wine_1",
+                "text": "The Riesling variety, characterized by its White shade, is often celebrated for its rich taste."
+            },
+            {
+                "psg_id": 631,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of LApres-Midi by Peter Michael, produced in the Knights Valley of California. This 2008 vintage is priced at $48 and has earned a score of 91, with 1260 cases made."
+            },
+            {
+                "psg_id": 655,
+                "title": "wine_1",
+                "text": "Renowned for its White hue, the Roussanne grape is a favorite among wine lovers."
+            },
+            {
+                "psg_id": 679,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Rosemarys Block Dry Stack Vineyard from Grey Stack in Bennett Valley, California, offers exceptional taste. This 2009 vintage is available for $28 and has achieved a remarkable 90."
+            },
+            {
+                "psg_id": 703,
+                "title": "wine_1",
+                "text": "A Red grape, the Sangiovese is often used in blends to enhance complexity."
+            },
+            {
+                "psg_id": 728,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Round Pond Estate, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $26 and has earned an impressive score of 90."
+            },
+            {
+                "psg_id": 752,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings."
+            },
+            {
+                "psg_id": 776,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by Beckmen is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $16 and a score of 89, only 1500 cases are available."
+            },
+            {
+                "psg_id": 800,
+                "title": "wine_1",
+                "text": "The Syrah grape, recognized for its Red hue, is a staple in many vineyards."
+            },
+            {
+                "psg_id": 825,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Beltane Ranch, found in Sonoma Valley, California. This 2009 vintage of Sauvignon Blanc, available for $23, has earned a stellar 89. Best enjoyed now."
+            },
+            {
+                "psg_id": 849,
+                "title": "wine_1",
+                "text": "The Tempranillo variety, characterized by its Red shade, is often celebrated for its rich taste."
+            },
+            {
+                "psg_id": 873,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Mesa Verde Vineyard by Brander, produced in the Santa Ynez Valley of California. This 2009 vintage is priced at $22 and has earned a score of 89, with 380 cases made."
+            },
+            {
+                "psg_id": 898,
+                "title": "wine_1",
+                "text": "Renowned for its White hue, the Viognier grape is a favorite among wine lovers."
+            },
+            {
+                "psg_id": 922,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Cade in Napa Valley, California, offers exceptional taste. This 2008 vintage is available for $26 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 946,
+                "title": "wine_1",
+                "text": "A Red grape, the Zinfandel is often used in blends to enhance complexity."
+            },
+            {
+                "psg_id": 970,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Jericho Canyon, crafted in the Napa Valley of California. The Sauvignon Blanc from 2009 is priced at $25 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 995,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by John Anthony is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $19 and a score of 89, only 3098 cases are available."
+            },
+            {
+                "psg_id": 1019,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Kenzo, found in Napa Valley, California. This 2008 vintage of Asatsuyu, available for $60, has earned a stellar 89. Best enjoyed now."
+            },
+            {
+                "psg_id": 1043,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Estate by Madrigal, produced in the Napa Valley of California. This 2009 vintage is priced at $25 and has earned a score of 89, with 200 cases made."
+            },
+            {
+                "psg_id": 1067,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Joseph Phelps in St. Helena, California, offers exceptional taste. This 2008 vintage is available for $32 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 1092,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Sbragia Family, crafted in the Dry Creek Valley of California. The Home Ranch from 2009 is priced at $20 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 1116,
+                "title": "wine_1",
+                "text": "The 2009 Hyde Vineyards by Selene is a delightful Sauvignon Blanc from Carneros, California. With a price of $27 and a score of 89, only 750 cases are available."
+            },
+            {
+                "psg_id": 1140,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of Purisma Mountain, available for $25, has earned a stellar 88. Best enjoyed now."
+            },
+            {
+                "psg_id": 1165,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of 3CV Grassini Family Vineyards by Cimarone, produced in the Happy Canyon of Santa Barbara of California. This 2009 vintage is priced at $21 and has earned a score of 88, with 270 cases made."
+            },
+            {
+                "psg_id": 1189,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Schmidt Ranch from Sbragia Family in Dry Creek Valley, California, offers exceptional taste. This 2009 vintage is available for $24 and has achieved a remarkable 88."
+            },
+            {
+                "psg_id": 1213,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Azur, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $24 and has earned an impressive score of 87."
+            },
+            {
+                "psg_id": 1237,
+                "title": "wine_1",
+                "text": "The 2009 Cuvee Natalie by Brander is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $18 and a score of 87, only 857 cases are available."
+            },
+            {
+                "psg_id": 1262,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of au Naturel, available for $32, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 1286,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Handley Vineyard by Handley, produced in the Dry Creek Valley of California. This 2008 vintage is priced at $15 and has earned a score of 87, with 1214 cases made."
+            },
+            {
+                "psg_id": 1310,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Wow Oui from Imagery in Sonoma Valley, California, offers exceptional taste. This 2009 vintage is available for $27 and has achieved a remarkable 87."
+            },
+            {
+                "psg_id": 1334,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Koehler, crafted in the Santa Ynez Valley of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 87."
+            },
+            {
+                "psg_id": 1359,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by Pomelo is a delightful Sauvignon Blanc from California, California. With a price of $10 and a score of 87, only 50000 cases are available."
+            },
+            {
+                "psg_id": 1383,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Twomey, found in Napa Valley, California. This 2009 vintage of Sauvignon Blanc, available for $25, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 1407,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by White Oak, produced in the Russian River Valley of California. This 2008 vintage is priced at $16 and has earned a score of 87, with 2000 cases made."
+            },
+            {
+                "psg_id": 1431,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Benziger in Sonoma-Lake Counties, California, offers exceptional taste. This 2009 vintage is available for $15 and has achieved a remarkable 86."
+            },
+            {
+                "psg_id": 1456,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Kunde Estate, crafted in the Sonoma Valley of California. The Magnolia Lane from 2009 is priced at $16 and has earned an impressive score of 86."
+            },
+            {
+                "psg_id": 1480,
+                "title": "wine_1",
+                "text": "The 2009 Carols Vineyard by J. Lohr is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $24 and a score of 86, only 2900 cases are available."
+            },
+            {
+                "psg_id": 1504,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Pedroncelli, found in Dry Creek Valley, California. This 2009 vintage of East Side Vineyards, available for $12, has earned a stellar 86. Best enjoyed now."
+            },
+            {
+                "psg_id": 1529,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Star Lane, produced in the Santa Ynez Valley of California. This 2008 vintage is priced at $20 and has earned a score of 86, with 2800 cases made."
+            },
+            {
+                "psg_id": 1553,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Angeline in Russian River Valley, California, offers exceptional taste. This 2009 vintage is available for $14 and has achieved a remarkable 85."
+            },
+            {
+                "psg_id": 1577,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Manifesto!, crafted in the North Coast of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 85."
+            },
+            {
+                "psg_id": 1601,
+                "title": "wine_1",
+                "text": "The 2008 Sauvignon Blanc by Mirassou is a delightful Sauvignon Blanc from California, California. With a price of $12 and a score of 85, only 42000 cases are available."
+            },
+            {
+                "psg_id": 1626,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from No, found in Lake County, California. This 2008 vintage of Sauvignon Blanc, available for $12, has earned a stellar 85. Best enjoyed now."
+            },
+            {
+                "psg_id": 1650,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Pritchard Hill by Chappellet, produced in the Napa Valley of California. This 2007 vintage is priced at $135 and has earned a score of 96, with 3368 cases made."
+            },
+            {
+                "psg_id": 1674,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Reserve from Lewis in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $130 and has achieved a remarkable 95."
+            },
+            {
+                "psg_id": 1698,
+                "title": "wine_1",
+                "text": "Experience the exquisite Cabernet Sauvingnon wine from Neyers, crafted in the Napa Valley of California. The Neyers Ranch - Conn Valley from 2007 is priced at $48 and has earned an impressive score of 95."
+            },
+            {
+                "psg_id": 1723,
+                "title": "wine_1",
+                "text": "The 2007 Annum by Ramey is a delightful Cabernet Sauvingnon from Napa Valley, California. With a price of $85 and a score of 95, only 1700 cases are available."
+            },
+            {
+                "psg_id": 1747,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Cabernet Sauvingnon from Round Pond Estate, found in Rutherford, California. This 2007 vintage of Cabernet Sauvignon, available for $50, has earned a stellar 94. Best enjoyed now."
+            },
+            {
+                "psg_id": 1771,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Beckstoffer To Kalon Vineyard by Carter, produced in the Napa Valley of California. This 2007 vintage is priced at $125 and has earned a score of 92, with 190 cases made."
+            },
+            {
+                "psg_id": 1796,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Coliseum Block from Carter in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $125 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 1820,
+                "title": "wine_1",
+                "text": "Experience the exquisite Cabernet Sauvingnon wine from Ehlers Estate, crafted in the St. Helena of California. The 1886 from 2007 is priced at $95 and has earned an impressive score of 92."
+            },
+            {
+                "psg_id": 1844,
+                "title": "wine_1",
+                "text": "The 2007 Cabernet Sauvignon by Fontanella Family is a delightful Cabernet Sauvingnon from Mount Vedeer, California. With a price of $50 and a score of 92, only 650 cases are available."
+            },
+            {
+                "psg_id": 1868,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Cabernet Sauvingnon from Janzen, found in Napa Valley, California. This 2007 vintage of Beckstoffer To Kalon Vineyard, available for $135, has earned a stellar 92. Best enjoyed now."
+            },
+            {
+                "psg_id": 1893,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Couer de Valee by Morlet, produced in the Napa Valley of California. This 2007 vintage is priced at $175 and has earned a score of 92, with 250 cases made."
+            },
+            {
+                "psg_id": 1917,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Cabernet Sauvignon from Penche in Napa Valley, California, offers exceptional taste. This 2006 vintage is available for $60 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 1941,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Kosta Browne, crafted in the Russian River Valley of California. The Amber Ridge Vineyard from 2008 is priced at $72 and has earned an impressive score of 95."
+            },
+            {
+                "psg_id": 1965,
+                "title": "wine_1",
+                "text": "The 2008 Keefer Ranch by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $72 and a score of 95, only 613 cases are available."
+            },
+            {
+                "psg_id": 1990,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Russian River Valley, California. This 2008 vintage of Koplen Vineyard, available for $72, has earned a stellar 95. Best enjoyed now."
+            },
+            {
+                "psg_id": 2014,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Freestone Hill by Patz & Hall, produced in the Russian River Valley of California. This 2007 vintage is priced at $70 and has earned a score of 95, with 245 cases made."
+            },
+            {
+                "psg_id": 2038,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Julias Vineyard from Foxen in Santa Maria Valley, California, offers exceptional taste. This 2008 vintage is available for $56 and has achieved a remarkable 94."
+            },
+            {
+                "psg_id": 2063,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Paul Hobbs, crafted in the Napa Valley of California. The Carneros Hyde Vineyard from 2008 is priced at $75 and has earned an impressive score of 94."
+            },
+            {
+                "psg_id": 2087,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $52 and a score of 94, only 3632 cases are available."
+            },
+            {
+                "psg_id": 2111,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $72, has earned a stellar 94. Best enjoyed now."
+            },
+            {
+                "psg_id": 2135,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Kanzler Vineyard by Kosta Browne, produced in the Sonoma Coast of California. This 2008 vintage is priced at $72 and has earned a score of 94, with 564 cases made."
+            },
+            {
+                "psg_id": 2160,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Five Sisters from Lynmar in Russian River Valley, California, offers exceptional taste. This 2007 vintage is available for $100 and has achieved a remarkable 94."
+            },
+            {
+                "psg_id": 2184,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Kosta Browne, crafted in the Santa Lucia Highlands of California. The Pisoni Vineyard from 2008 is priced at $72 and has earned an impressive score of 93."
+            },
+            {
+                "psg_id": 2208,
+                "title": "wine_1",
+                "text": "The 2008 Rosellas Vineyard by Kosta Browne is a delightful Pinot Noir from Santa Lucia Highlands, California. With a price of $72 and a score of 93, only 255 cases are available."
+            },
+            {
+                "psg_id": 2232,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Landmark, found in Sonoma Coast, California. This 2008 vintage of Kanzler Vineyard, available for $65, has earned a stellar 93. Best enjoyed now."
+            },
+            {
+                "psg_id": 2257,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Valley Bliss Block by Lynmar, produced in the Russian River Valley of California. This 2008 vintage is priced at $70 and has earned a score of 93, with 152 cases made."
+            },
+            {
+                "psg_id": 2281,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Pinot Noir from Patz & Hall in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $42 and has achieved a remarkable 93."
+            },
+            {
+                "psg_id": 2305,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Valdez Family, crafted in the Russian River Valley of California. The Lancel Creek Vineyard from 2007 is priced at $55 and has earned an impressive score of 93."
+            },
+            {
+                "psg_id": 2330,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by De Loach is a delightful Pinot Noir from Green Valley of Russian River Valley, California. With a price of $45 and a score of 92, only 1467 cases are available."
+            },
+            {
+                "psg_id": 2354,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in California, California. This 2008 vintage of 4-Barrel, available for $72, has earned a stellar 92. Best enjoyed now."
+            },
+            {
+                "psg_id": 2378,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Gaps Crown Vineyard by Kosta Browne, produced in the Sonoma Coast of California. This 2008 vintage is priced at $68 and has earned a score of 92, with 690 cases made."
+            },
+            {
+                "psg_id": 2402,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Pinot Noir from Kosta Browne in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $52 and has achieved a remarkable 90."
+            },
+            {
+                "psg_id": 2427,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Rusack, crafted in the Sta. Rita Hills of California. The Reserve from 2008 is priced at $40 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 2451,
+                "title": "wine_1",
+                "text": "The 2008 A by Acacia by Acacia is a delightful Pinot Noir from California, California. With a price of $17 and a score of 88, only 58231 cases are available."
+            },
+            {
+                "psg_id": 2475,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Alma Rosa, found in Sta. Rita Hills, California. This 2008 vintage of La Encantada Vineyard, available for $43, has earned a stellar 88. Best enjoyed now."
+            },
+            {
+                "psg_id": 2499,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of La Encantada Vineyard Clone 667 by Alma Rosa, produced in the Sta. Rita Hills of California. This 2008 vintage is priced at $43 and has earned a score of 88, with 358 cases made."
+            },
+            {
+                "psg_id": 2524,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Estate Reserve from Artesa in Carneros, California, offers exceptional taste. This 2007 vintage is available for $40 and has achieved a remarkable 88."
+            },
+            {
+                "psg_id": 2548,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Robert Mondavi, crafted in the Napa Valley of California. The Carneros from 2008 is priced at $28 and has earned an impressive score of 88."
+            },
+            {
+                "psg_id": 2572,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by Pfendler is a delightful Pinot Noir from Sonoma Coast, California. With a price of $45 and a score of 88, only 400 cases are available."
+            },
+            {
+                "psg_id": 2596,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Roar, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $50, has earned a stellar 88. Best enjoyed now."
+            }
+        ]
+    },
+    {
+        "question": "What are the names of wines with scores higher than 90?",
+        "sample_idx": 1,
+        "retrieved_docs": [
+            {
+                "psg_id": 1640,
+                "chunk": "Experience the exquisite Cabernet Sauvingnon wine from Ehlers Estate, crafted in the St. Helena of California. The 1886 from 2007 is priced at $95 and has earned an impressive score of 92.",
+                "score": 0.6357262134552002
+            },
+            {
+                "psg_id": 238,
+                "chunk": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Altamura, produced in the Napa Valley of California. This 2007 vintage is priced at $48 and has earned a score of 92, with 500 cases made.",
+                "score": 0.6252896189689636
+            },
+            {
+                "psg_id": 1372,
+                "chunk": "The 2008 Sauvignon Blanc by Mirassou is a delightful Sauvignon Blanc from California, California. With a price of $12 and a score of 85, only 42000 cases are available.",
+                "score": 0.619736909866333
+            },
+            {
+                "psg_id": 1014,
+                "chunk": "The Sauvignon Blanc wine Wow Oui from Imagery in Sonoma Valley, California, offers exceptional taste. This 2009 vintage is available for $27 and has achieved a remarkable 87.",
+                "score": 0.618324875831604
+            },
+            {
+                "psg_id": 477,
+                "chunk": "The 2009 Sauvignon Blanc by Beckmen is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $16 and a score of 89, only 1500 cases are available.",
+                "score": 0.6163318157196045
+            },
+            {
+                "psg_id": 1044,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Koehler, crafted in the Santa Ynez Valley of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 87.",
+                "score": 0.6151311993598938
+            },
+            {
+                "psg_id": 447,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Round Pond Estate, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $26 and has earned an impressive score of 90.",
+                "score": 0.6106655597686768
+            },
+            {
+                "psg_id": 894,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Azur, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $24 and has earned an impressive score of 87.",
+                "score": 0.6105252504348755
+            },
+            {
+                "psg_id": 626,
+                "chunk": "The 2009 Sauvignon Blanc by John Anthony is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $19 and a score of 89, only 3098 cases are available.",
+                "score": 0.6084967851638794
+            },
+            {
+                "psg_id": 1282,
+                "chunk": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Star Lane, produced in the Santa Ynez Valley of California. This 2008 vintage is priced at $20 and has earned a score of 86, with 2800 cases made.",
+                "score": 0.6084718704223633
+            },
+            {
+                "psg_id": 1312,
+                "chunk": "The Sauvignon Blanc wine Sauvignon Blanc from Angeline in Russian River Valley, California, offers exceptional taste. This 2009 vintage is available for $14 and has achieved a remarkable 85.",
+                "score": 0.6076334714889526
+            },
+            {
+                "psg_id": 596,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Jericho Canyon, crafted in the Napa Valley of California. The Sauvignon Blanc from 2009 is priced at $25 and has earned an impressive score of 89.",
+                "score": 0.6056249737739563
+            },
+            {
+                "psg_id": 1133,
+                "chunk": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by White Oak, produced in the Russian River Valley of California. This 2008 vintage is priced at $16 and has earned a score of 87, with 2000 cases made.",
+                "score": 0.6050072908401489
+            },
+            {
+                "psg_id": 1760,
+                "chunk": "The Cabernet Sauvingnon wine Cabernet Sauvignon from Penche in Napa Valley, California, offers exceptional taste. This 2006 vintage is available for $60 and has achieved a remarkable 92.",
+                "score": 0.604152262210846
+            },
+            {
+                "psg_id": 686,
+                "chunk": "Discover the Sauvignon Blanc excellence of Estate by Madrigal, produced in the Napa Valley of California. This 2009 vintage is priced at $25 and has earned a score of 89, with 200 cases made.",
+                "score": 0.6025208234786987
+            },
+            {
+                "psg_id": 1998,
+                "chunk": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $72, has earned a stellar 94. Best enjoyed now.",
+                "score": 0.6024866104125977
+            },
+            {
+                "psg_id": 1670,
+                "chunk": "The 2007 Cabernet Sauvignon by Fontanella Family is a delightful Cabernet Sauvingnon from Mount Vedeer, California. With a price of $50 and a score of 92, only 650 cases are available.",
+                "score": 0.601637601852417
+            },
+            {
+                "psg_id": 1342,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Manifesto!, crafted in the North Coast of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 85.",
+                "score": 0.6015491485595703
+            },
+            {
+                "psg_id": 507,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Beltane Ranch, found in Sonoma Valley, California. This 2009 vintage of Sauvignon Blanc, available for $23, has earned a stellar 89. Best enjoyed now.",
+                "score": 0.6011074781417847
+            },
+            {
+                "psg_id": 1163,
+                "chunk": "The Sauvignon Blanc wine Sauvignon Blanc from Benziger in Sonoma-Lake Counties, California, offers exceptional taste. This 2009 vintage is available for $15 and has achieved a remarkable 86.",
+                "score": 0.6008524894714355
+            },
+            {
+                "psg_id": 1073,
+                "chunk": "The 2009 Sauvignon Blanc by Pomelo is a delightful Sauvignon Blanc from California, California. With a price of $10 and a score of 87, only 50000 cases are available.",
+                "score": 0.599495530128479
+            },
+            {
+                "psg_id": 1551,
+                "chunk": "Indulge in the delightful Cabernet Sauvingnon from Round Pond Estate, found in Rutherford, California. This 2007 vintage of Cabernet Sauvignon, available for $50, has earned a stellar 94. Best enjoyed now.",
+                "score": 0.5994853973388672
+            },
+            {
+                "psg_id": 298,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Brander, crafted in the Santa Ynez Valley of California. The Cuvee Nicolas from 2009 is priced at $25 and has earned an impressive score of 91.",
+                "score": 0.599023163318634
+            },
+            {
+                "psg_id": 387,
+                "chunk": "Discover the Sauvignon Blanc excellence of LApres-Midi by Peter Michael, produced in the Knights Valley of California. This 2008 vintage is priced at $48 and has earned a score of 91, with 1260 cases made.",
+                "score": 0.598750650882721
+            },
+            {
+                "psg_id": 656,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Kenzo, found in Napa Valley, California. This 2008 vintage of Asatsuyu, available for $60, has earned a stellar 89. Best enjoyed now.",
+                "score": 0.5984198451042175
+            },
+            {
+                "psg_id": 1103,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Twomey, found in Napa Valley, California. This 2009 vintage of Sauvignon Blanc, available for $25, has earned a stellar 87. Best enjoyed now.",
+                "score": 0.5940532684326172
+            },
+            {
+                "psg_id": 566,
+                "chunk": "The Sauvignon Blanc wine Sauvignon Blanc from Cade in Napa Valley, California, offers exceptional taste. This 2008 vintage is available for $26 and has achieved a remarkable 89.",
+                "score": 0.5939437747001648
+            },
+            {
+                "psg_id": 2088,
+                "chunk": "Experience the exquisite Pinot Noir wine from Kosta Browne, crafted in the Santa Lucia Highlands of California. The Pisoni Vineyard from 2008 is priced at $72 and has earned an impressive score of 93.",
+                "score": 0.5938677787780762
+            },
+            {
+                "psg_id": 417,
+                "chunk": "The Sauvignon Blanc wine Rosemarys Block Dry Stack Vineyard from Grey Stack in Bennett Valley, California, offers exceptional taste. This 2009 vintage is available for $28 and has achieved a remarkable 90.",
+                "score": 0.5937397480010986
+            },
+            {
+                "psg_id": 2595,
+                "chunk": "Indulge in the delightful Pinot Noir from Roar, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $50, has earned a stellar 88. Best enjoyed now.",
+                "score": 0.5927446484565735
+            },
+            {
+                "psg_id": 715,
+                "chunk": "The Sauvignon Blanc wine Sauvignon Blanc from Joseph Phelps in St. Helena, California, offers exceptional taste. This 2008 vintage is available for $32 and has achieved a remarkable 89.",
+                "score": 0.5911859273910522
+            },
+            {
+                "psg_id": 835,
+                "chunk": "Discover the Sauvignon Blanc excellence of 3CV Grassini Family Vineyards by Cimarone, produced in the Happy Canyon of Santa Barbara of California. This 2009 vintage is priced at $21 and has earned a score of 88, with 270 cases made.",
+                "score": 0.5907658338546753
+            },
+            {
+                "psg_id": 805,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of Purisma Mountain, available for $25, has earned a stellar 88. Best enjoyed now.",
+                "score": 0.5884121656417847
+            },
+            {
+                "psg_id": 1968,
+                "chunk": "The 2008 Pinot Noir by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $52 and a score of 94, only 3632 cases are available.",
+                "score": 0.5883234739303589
+            },
+            {
+                "psg_id": 1223,
+                "chunk": "The 2009 Carols Vineyard by J. Lohr is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $24 and a score of 86, only 2900 cases are available.",
+                "score": 0.587399423122406
+            },
+            {
+                "psg_id": 149,
+                "chunk": "Experience the exquisite Zinfandel wine from Robert Biale, crafted in the St. Helena of California. The Varozza Vineyard from 2008 is priced at $44 and has earned an impressive score of 88.",
+                "score": 0.5872493386268616
+            },
+            {
+                "psg_id": 1610,
+                "chunk": "The Cabernet Sauvingnon wine Coliseum Block from Carter in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $125 and has achieved a remarkable 92.",
+                "score": 0.5872481465339661
+            },
+            {
+                "psg_id": 1252,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Pedroncelli, found in Dry Creek Valley, California. This 2009 vintage of East Side Vineyards, available for $12, has earned a stellar 86. Best enjoyed now.",
+                "score": 0.5866352915763855
+            },
+            {
+                "psg_id": 1193,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Kunde Estate, crafted in the Sonoma Valley of California. The Magnolia Lane from 2009 is priced at $16 and has earned an impressive score of 86.",
+                "score": 0.5854846239089966
+            },
+            {
+                "psg_id": 1849,
+                "chunk": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Russian River Valley, California. This 2008 vintage of Koplen Vineyard, available for $72, has earned a stellar 95. Best enjoyed now.",
+                "score": 0.5852495431900024
+            },
+            {
+                "psg_id": 1402,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from No, found in Lake County, California. This 2008 vintage of Sauvignon Blanc, available for $12, has earned a stellar 85. Best enjoyed now.",
+                "score": 0.5852434635162354
+            },
+            {
+                "psg_id": 2356,
+                "chunk": "The Pinot Noir wine Pinot Noir from Kosta Browne in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $52 and has achieved a remarkable 90.",
+                "score": 0.5842878818511963
+            },
+            {
+                "psg_id": 924,
+                "chunk": "The 2009 Cuvee Natalie by Brander is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $18 and a score of 87, only 857 cases are available.",
+                "score": 0.5840717554092407
+            },
+            {
+                "psg_id": 357,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from John Anthony, found in Carneros, California. This 2009 vintage of Church Vineyard, available for $28, has earned a stellar 91. Best enjoyed now.",
+                "score": 0.5836712718009949
+            },
+            {
+                "psg_id": 268,
+                "chunk": "The Sauvignon Blanc wine Les Pionniers from Capture in Sonoma County, California, offers exceptional taste. This 2009 vintage is available for $36 and has achieved a remarkable 92.",
+                "score": 0.5829583406448364
+            },
+            {
+                "psg_id": 865,
+                "chunk": "The Sauvignon Blanc wine Schmidt Ranch from Sbragia Family in Dry Creek Valley, California, offers exceptional taste. This 2009 vintage is available for $24 and has achieved a remarkable 88.",
+                "score": 0.5816532373428345
+            },
+            {
+                "psg_id": 2655,
+                "chunk": "The Pinot Noir wine Sarmento Vineyard from Sequana in Santa Lucia Highlands, California, offers exceptional taste. This 2008 vintage is available for $32 and has achieved a remarkable 88.",
+                "score": 0.5810110569000244
+            },
+            {
+                "psg_id": 2297,
+                "chunk": "Indulge in the delightful Pinot Noir from Kosta Browne, found in California, California. This 2008 vintage of 4-Barrel, available for $72, has earned a stellar 92. Best enjoyed now.",
+                "score": 0.5805557370185852
+            },
+            {
+                "psg_id": 2118,
+                "chunk": "The 2008 Rosellas Vineyard by Kosta Browne is a delightful Pinot Noir from Santa Lucia Highlands, California. With a price of $72 and a score of 93, only 255 cases are available.",
+                "score": 0.5785413384437561
+            },
+            {
+                "psg_id": 2416,
+                "chunk": "The 2008 A by Acacia by Acacia is a delightful Pinot Noir from California, California. With a price of $17 and a score of 88, only 58231 cases are available.",
+                "score": 0.5784757733345032
+            },
+            {
+                "psg_id": 1700,
+                "chunk": "Indulge in the delightful Cabernet Sauvingnon from Janzen, found in Napa Valley, California. This 2007 vintage of Beckstoffer To Kalon Vineyard, available for $135, has earned a stellar 92. Best enjoyed now.",
+                "score": 0.577476441860199
+            },
+            {
+                "psg_id": 2834,
+                "chunk": "Experience the exquisite Pinot Noir wine from Sebastiani, crafted in the Carneros of California. The Pinot Noir from 2008 is priced at $24 and has earned an impressive score of 87.",
+                "score": 0.5767005681991577
+            },
+            {
+                "psg_id": 954,
+                "chunk": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of au Naturel, available for $32, has earned a stellar 87. Best enjoyed now.",
+                "score": 0.5763999819755554
+            },
+            {
+                "psg_id": 1431,
+                "chunk": "Discover the Cabernet Sauvingnon excellence of Pritchard Hill by Chappellet, produced in the Napa Valley of California. This 2007 vintage is priced at $135 and has earned a score of 96, with 3368 cases made.",
+                "score": 0.5762535333633423
+            },
+            {
+                "psg_id": 2774,
+                "chunk": "Discover the Pinot Noir excellence of Pinot Noir by Castle Rock, produced in the Central Coast of California. This 2008 vintage is priced at $13 and has earned a score of 87, with 36000 cases made.",
+                "score": 0.5761247873306274
+            },
+            {
+                "psg_id": 536,
+                "chunk": "Discover the Sauvignon Blanc excellence of Mesa Verde Vineyard by Brander, produced in the Santa Ynez Valley of California. This 2009 vintage is priced at $22 and has earned a score of 89, with 380 cases made.",
+                "score": 0.5753546953201294
+            },
+            {
+                "psg_id": 2863,
+                "chunk": "The 2008 Kali Hart by Talbott is a delightful Pinot Noir from Santa Lucia Highlands, California. With a price of $21 and a score of 87, only 8000 cases are available.",
+                "score": 0.5742559432983398
+            },
+            {
+                "psg_id": 2237,
+                "chunk": "Experience the exquisite Pinot Noir wine from Valdez Family, crafted in the Russian River Valley of California. The Lancel Creek Vineyard from 2007 is priced at $55 and has earned an impressive score of 93.",
+                "score": 0.5738838315010071
+            },
+            {
+                "psg_id": 2326,
+                "chunk": "Discover the Pinot Noir excellence of Gaps Crown Vineyard by Kosta Browne, produced in the Sonoma Coast of California. This 2008 vintage is priced at $68 and has earned a score of 92, with 690 cases made.",
+                "score": 0.5732513666152954
+            },
+            {
+                "psg_id": 1521,
+                "chunk": "The 2007 Annum by Ramey is a delightful Cabernet Sauvingnon from Napa Valley, California. With a price of $85 and a score of 95, only 1700 cases are available.",
+                "score": 0.5727757215499878
+            },
+            {
+                "psg_id": 1819,
+                "chunk": "The 2008 Keefer Ranch by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $72 and a score of 95, only 613 cases are available.",
+                "score": 0.5720143914222717
+            },
+            {
+                "psg_id": 2714,
+                "chunk": "The 2008 Pinot Noir by Twomey is a delightful Pinot Noir from Santa Barbara County, California. With a price of $30 and a score of 88, only 1510 cases are available.",
+                "score": 0.5716719627380371
+            },
+            {
+                "psg_id": 2207,
+                "chunk": "The Pinot Noir wine Pinot Noir from Patz & Hall in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $42 and has achieved a remarkable 93.",
+                "score": 0.5715789794921875
+            },
+            {
+                "psg_id": 2267,
+                "chunk": "The 2008 Pinot Noir by De Loach is a delightful Pinot Noir from Green Valley of Russian River Valley, California. With a price of $45 and a score of 92, only 1467 cases are available.",
+                "score": 0.5710476636886597
+            },
+            {
+                "psg_id": 1461,
+                "chunk": "The Cabernet Sauvingnon wine Reserve from Lewis in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $130 and has achieved a remarkable 95.",
+                "score": 0.5706822872161865
+            },
+            {
+                "psg_id": 745,
+                "chunk": "Experience the exquisite Sauvignon Blanc wine from Sbragia Family, crafted in the Dry Creek Valley of California. The Home Ranch from 2009 is priced at $20 and has earned an impressive score of 89.",
+                "score": 0.5700575709342957
+            },
+            {
+                "psg_id": 1491,
+                "chunk": "Experience the exquisite Cabernet Sauvingnon wine from Neyers, crafted in the Napa Valley of California. The Neyers Ranch - Conn Valley from 2007 is priced at $48 and has earned an impressive score of 95.",
+                "score": 0.5691061019897461
+            },
+            {
+                "psg_id": 2446,
+                "chunk": "Indulge in the delightful Pinot Noir from Alma Rosa, found in Sta. Rita Hills, California. This 2008 vintage of La Encantada Vineyard, available for $43, has earned a stellar 88. Best enjoyed now.",
+                "score": 0.568903386592865
+            },
+            {
+                "psg_id": 2058,
+                "chunk": "The Pinot Noir wine Five Sisters from Lynmar in Russian River Valley, California, offers exceptional taste. This 2007 vintage is available for $100 and has achieved a remarkable 94.",
+                "score": 0.5684022903442383
+            },
+            {
+                "psg_id": 59,
+                "chunk": "Indulge in the delightful Zinfandel from Chiarello Family, found in Napa Valley, California. This 2008 vintage of Giana, available for $35, has earned a stellar 93. Best enjoyed now.",
+                "score": 0.5675101280212402
+            },
+            {
+                "psg_id": 2386,
+                "chunk": "Experience the exquisite Pinot Noir wine from Rusack, crafted in the Sta. Rita Hills of California. The Reserve from 2008 is priced at $40 and has earned an impressive score of 89.",
+                "score": 0.5671985745429993
+            },
+            {
+                "psg_id": 1581,
+                "chunk": "Discover the Cabernet Sauvingnon excellence of Beckstoffer To Kalon Vineyard by Carter, produced in the Napa Valley of California. This 2007 vintage is priced at $125 and has earned a score of 92, with 190 cases made.",
+                "score": 0.5664409399032593
+            },
+            {
+                "psg_id": 1432,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1268,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2004,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 205,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2739,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 532,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 451,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 614,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1922,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 124,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 696,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2658,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2249,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1840,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2167,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 369,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 42,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 778,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2085,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 287,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 859,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1758,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1513,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 941,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1350,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2576,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2331,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1023,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1677,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1186,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 1105,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            },
+            {
+                "psg_id": 2412,
+                "chunk": "The Sauvignon Blanc grape, recognized for its White shade, is often featured in wine tastings.",
+                "score": 0.5663228034973145
+            }
+        ],
+        "retrieval_time": 69.6078360080719,
+        "num_retrieved_docs": "104",
+        "reduction_ratio": 0.9636871508379888,
+        "true_k": "376",
+        "positive_docs": [
+            {
+                "psg_id": 29,
+                "title": "wine_1",
+                "text": "The 2008 Old Kraft Vineyard by Robert Biale is a delightful Zinfandel from St. Helena, California. With a price of $44 and a score of 93, only 275 cases are available."
+            },
+            {
+                "psg_id": 59,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Zinfandel from Chiarello Family, found in Napa Valley, California. This 2008 vintage of Giana, available for $35, has earned a stellar 93. Best enjoyed now."
+            },
+            {
+                "psg_id": 89,
+                "title": "wine_1",
+                "text": "Discover the Zinfandel excellence of Black Chicken by Robert Biale, produced in the Napa Valley of California. This 2008 vintage is priced at $40 and has earned a score of 91, with 2700 cases made."
+            },
+            {
+                "psg_id": 119,
+                "title": "wine_1",
+                "text": "The Zinfandel wine Napa Ranches from Robert Biale in Napa Valley, California, offers exceptional taste. This 2008 vintage is available for $38 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 149,
+                "title": "wine_1",
+                "text": "Experience the exquisite Zinfandel wine from Robert Biale, crafted in the St. Helena of California. The Varozza Vineyard from 2008 is priced at $44 and has earned an impressive score of 88."
+            },
+            {
+                "psg_id": 178,
+                "title": "wine_1",
+                "text": "The 2008 Mother Clone by Pedroncelli is a delightful Zinfandel from Dry Creek Valley, California. With a price of $15 and a score of 88, only 6000 cases are available."
+            },
+            {
+                "psg_id": 208,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Zinfandel from Rutherford Ranch, found in Napa Valley, California. This 2007 vintage of Zinfandel, available for $18, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 238,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Altamura, produced in the Napa Valley of California. This 2007 vintage is priced at $48 and has earned a score of 92, with 500 cases made."
+            },
+            {
+                "psg_id": 268,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Les Pionniers from Capture in Sonoma County, California, offers exceptional taste. This 2009 vintage is available for $36 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 298,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Brander, crafted in the Santa Ynez Valley of California. The Cuvee Nicolas from 2009 is priced at $25 and has earned an impressive score of 91."
+            },
+            {
+                "psg_id": 328,
+                "title": "wine_1",
+                "text": "The 2009 Tradition by Capture is a delightful Sauvignon Blanc from California, California. With a price of $30 and a score of 91, only 875 cases are available."
+            },
+            {
+                "psg_id": 357,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from John Anthony, found in Carneros, California. This 2009 vintage of Church Vineyard, available for $28, has earned a stellar 91. Best enjoyed now."
+            },
+            {
+                "psg_id": 387,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of LApres-Midi by Peter Michael, produced in the Knights Valley of California. This 2008 vintage is priced at $48 and has earned a score of 91, with 1260 cases made."
+            },
+            {
+                "psg_id": 417,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Rosemarys Block Dry Stack Vineyard from Grey Stack in Bennett Valley, California, offers exceptional taste. This 2009 vintage is available for $28 and has achieved a remarkable 90."
+            },
+            {
+                "psg_id": 447,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Round Pond Estate, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $26 and has earned an impressive score of 90."
+            },
+            {
+                "psg_id": 477,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by Beckmen is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $16 and a score of 89, only 1500 cases are available."
+            },
+            {
+                "psg_id": 507,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Beltane Ranch, found in Sonoma Valley, California. This 2009 vintage of Sauvignon Blanc, available for $23, has earned a stellar 89. Best enjoyed now."
+            },
+            {
+                "psg_id": 536,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Mesa Verde Vineyard by Brander, produced in the Santa Ynez Valley of California. This 2009 vintage is priced at $22 and has earned a score of 89, with 380 cases made."
+            },
+            {
+                "psg_id": 566,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Cade in Napa Valley, California, offers exceptional taste. This 2008 vintage is available for $26 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 596,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Jericho Canyon, crafted in the Napa Valley of California. The Sauvignon Blanc from 2009 is priced at $25 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 626,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by John Anthony is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $19 and a score of 89, only 3098 cases are available."
+            },
+            {
+                "psg_id": 656,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Kenzo, found in Napa Valley, California. This 2008 vintage of Asatsuyu, available for $60, has earned a stellar 89. Best enjoyed now."
+            },
+            {
+                "psg_id": 686,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Estate by Madrigal, produced in the Napa Valley of California. This 2009 vintage is priced at $25 and has earned a score of 89, with 200 cases made."
+            },
+            {
+                "psg_id": 715,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Joseph Phelps in St. Helena, California, offers exceptional taste. This 2008 vintage is available for $32 and has achieved a remarkable 89."
+            },
+            {
+                "psg_id": 745,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Sbragia Family, crafted in the Dry Creek Valley of California. The Home Ranch from 2009 is priced at $20 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 775,
+                "title": "wine_1",
+                "text": "The 2009 Hyde Vineyards by Selene is a delightful Sauvignon Blanc from Carneros, California. With a price of $27 and a score of 89, only 750 cases are available."
+            },
+            {
+                "psg_id": 805,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of Purisma Mountain, available for $25, has earned a stellar 88. Best enjoyed now."
+            },
+            {
+                "psg_id": 835,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of 3CV Grassini Family Vineyards by Cimarone, produced in the Happy Canyon of Santa Barbara of California. This 2009 vintage is priced at $21 and has earned a score of 88, with 270 cases made."
+            },
+            {
+                "psg_id": 865,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Schmidt Ranch from Sbragia Family in Dry Creek Valley, California, offers exceptional taste. This 2009 vintage is available for $24 and has achieved a remarkable 88."
+            },
+            {
+                "psg_id": 894,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Azur, crafted in the Rutherford of California. The Sauvignon Blanc from 2009 is priced at $24 and has earned an impressive score of 87."
+            },
+            {
+                "psg_id": 924,
+                "title": "wine_1",
+                "text": "The 2009 Cuvee Natalie by Brander is a delightful Sauvignon Blanc from Santa Ynez Valley, California. With a price of $18 and a score of 87, only 857 cases are available."
+            },
+            {
+                "psg_id": 954,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Brander, found in Santa Ynez Valley, California. This 2009 vintage of au Naturel, available for $32, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 984,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Handley Vineyard by Handley, produced in the Dry Creek Valley of California. This 2008 vintage is priced at $15 and has earned a score of 87, with 1214 cases made."
+            },
+            {
+                "psg_id": 1014,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Wow Oui from Imagery in Sonoma Valley, California, offers exceptional taste. This 2009 vintage is available for $27 and has achieved a remarkable 87."
+            },
+            {
+                "psg_id": 1044,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Koehler, crafted in the Santa Ynez Valley of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 87."
+            },
+            {
+                "psg_id": 1073,
+                "title": "wine_1",
+                "text": "The 2009 Sauvignon Blanc by Pomelo is a delightful Sauvignon Blanc from California, California. With a price of $10 and a score of 87, only 50000 cases are available."
+            },
+            {
+                "psg_id": 1103,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Twomey, found in Napa Valley, California. This 2009 vintage of Sauvignon Blanc, available for $25, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 1133,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by White Oak, produced in the Russian River Valley of California. This 2008 vintage is priced at $16 and has earned a score of 87, with 2000 cases made."
+            },
+            {
+                "psg_id": 1163,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Benziger in Sonoma-Lake Counties, California, offers exceptional taste. This 2009 vintage is available for $15 and has achieved a remarkable 86."
+            },
+            {
+                "psg_id": 1193,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Kunde Estate, crafted in the Sonoma Valley of California. The Magnolia Lane from 2009 is priced at $16 and has earned an impressive score of 86."
+            },
+            {
+                "psg_id": 1223,
+                "title": "wine_1",
+                "text": "The 2009 Carols Vineyard by J. Lohr is a delightful Sauvignon Blanc from Napa Valley, California. With a price of $24 and a score of 86, only 2900 cases are available."
+            },
+            {
+                "psg_id": 1252,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from Pedroncelli, found in Dry Creek Valley, California. This 2009 vintage of East Side Vineyards, available for $12, has earned a stellar 86. Best enjoyed now."
+            },
+            {
+                "psg_id": 1282,
+                "title": "wine_1",
+                "text": "Discover the Sauvignon Blanc excellence of Sauvignon Blanc by Star Lane, produced in the Santa Ynez Valley of California. This 2008 vintage is priced at $20 and has earned a score of 86, with 2800 cases made."
+            },
+            {
+                "psg_id": 1312,
+                "title": "wine_1",
+                "text": "The Sauvignon Blanc wine Sauvignon Blanc from Angeline in Russian River Valley, California, offers exceptional taste. This 2009 vintage is available for $14 and has achieved a remarkable 85."
+            },
+            {
+                "psg_id": 1342,
+                "title": "wine_1",
+                "text": "Experience the exquisite Sauvignon Blanc wine from Manifesto!, crafted in the North Coast of California. The Sauvignon Blanc from 2008 is priced at $12 and has earned an impressive score of 85."
+            },
+            {
+                "psg_id": 1372,
+                "title": "wine_1",
+                "text": "The 2008 Sauvignon Blanc by Mirassou is a delightful Sauvignon Blanc from California, California. With a price of $12 and a score of 85, only 42000 cases are available."
+            },
+            {
+                "psg_id": 1402,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Sauvignon Blanc from No, found in Lake County, California. This 2008 vintage of Sauvignon Blanc, available for $12, has earned a stellar 85. Best enjoyed now."
+            },
+            {
+                "psg_id": 1431,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Pritchard Hill by Chappellet, produced in the Napa Valley of California. This 2007 vintage is priced at $135 and has earned a score of 96, with 3368 cases made."
+            },
+            {
+                "psg_id": 1461,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Reserve from Lewis in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $130 and has achieved a remarkable 95."
+            },
+            {
+                "psg_id": 1491,
+                "title": "wine_1",
+                "text": "Experience the exquisite Cabernet Sauvingnon wine from Neyers, crafted in the Napa Valley of California. The Neyers Ranch - Conn Valley from 2007 is priced at $48 and has earned an impressive score of 95."
+            },
+            {
+                "psg_id": 1521,
+                "title": "wine_1",
+                "text": "The 2007 Annum by Ramey is a delightful Cabernet Sauvingnon from Napa Valley, California. With a price of $85 and a score of 95, only 1700 cases are available."
+            },
+            {
+                "psg_id": 1551,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Cabernet Sauvingnon from Round Pond Estate, found in Rutherford, California. This 2007 vintage of Cabernet Sauvignon, available for $50, has earned a stellar 94. Best enjoyed now."
+            },
+            {
+                "psg_id": 1581,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Beckstoffer To Kalon Vineyard by Carter, produced in the Napa Valley of California. This 2007 vintage is priced at $125 and has earned a score of 92, with 190 cases made."
+            },
+            {
+                "psg_id": 1610,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Coliseum Block from Carter in Napa Valley, California, offers exceptional taste. This 2007 vintage is available for $125 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 1640,
+                "title": "wine_1",
+                "text": "Experience the exquisite Cabernet Sauvingnon wine from Ehlers Estate, crafted in the St. Helena of California. The 1886 from 2007 is priced at $95 and has earned an impressive score of 92."
+            },
+            {
+                "psg_id": 1670,
+                "title": "wine_1",
+                "text": "The 2007 Cabernet Sauvignon by Fontanella Family is a delightful Cabernet Sauvingnon from Mount Vedeer, California. With a price of $50 and a score of 92, only 650 cases are available."
+            },
+            {
+                "psg_id": 1700,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Cabernet Sauvingnon from Janzen, found in Napa Valley, California. This 2007 vintage of Beckstoffer To Kalon Vineyard, available for $135, has earned a stellar 92. Best enjoyed now."
+            },
+            {
+                "psg_id": 1730,
+                "title": "wine_1",
+                "text": "Discover the Cabernet Sauvingnon excellence of Couer de Valee by Morlet, produced in the Napa Valley of California. This 2007 vintage is priced at $175 and has earned a score of 92, with 250 cases made."
+            },
+            {
+                "psg_id": 1760,
+                "title": "wine_1",
+                "text": "The Cabernet Sauvingnon wine Cabernet Sauvignon from Penche in Napa Valley, California, offers exceptional taste. This 2006 vintage is available for $60 and has achieved a remarkable 92."
+            },
+            {
+                "psg_id": 1789,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Kosta Browne, crafted in the Russian River Valley of California. The Amber Ridge Vineyard from 2008 is priced at $72 and has earned an impressive score of 95."
+            },
+            {
+                "psg_id": 1819,
+                "title": "wine_1",
+                "text": "The 2008 Keefer Ranch by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $72 and a score of 95, only 613 cases are available."
+            },
+            {
+                "psg_id": 1849,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Russian River Valley, California. This 2008 vintage of Koplen Vineyard, available for $72, has earned a stellar 95. Best enjoyed now."
+            },
+            {
+                "psg_id": 1879,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Freestone Hill by Patz & Hall, produced in the Russian River Valley of California. This 2007 vintage is priced at $70 and has earned a score of 95, with 245 cases made."
+            },
+            {
+                "psg_id": 1909,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Julias Vineyard from Foxen in Santa Maria Valley, California, offers exceptional taste. This 2008 vintage is available for $56 and has achieved a remarkable 94."
+            },
+            {
+                "psg_id": 1939,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Paul Hobbs, crafted in the Napa Valley of California. The Carneros Hyde Vineyard from 2008 is priced at $75 and has earned an impressive score of 94."
+            },
+            {
+                "psg_id": 1968,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by Kosta Browne is a delightful Pinot Noir from Russian River Valley, California. With a price of $52 and a score of 94, only 3632 cases are available."
+            },
+            {
+                "psg_id": 1998,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $72, has earned a stellar 94. Best enjoyed now."
+            },
+            {
+                "psg_id": 2028,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Kanzler Vineyard by Kosta Browne, produced in the Sonoma Coast of California. This 2008 vintage is priced at $72 and has earned a score of 94, with 564 cases made."
+            },
+            {
+                "psg_id": 2058,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Five Sisters from Lynmar in Russian River Valley, California, offers exceptional taste. This 2007 vintage is available for $100 and has achieved a remarkable 94."
+            },
+            {
+                "psg_id": 2088,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Kosta Browne, crafted in the Santa Lucia Highlands of California. The Pisoni Vineyard from 2008 is priced at $72 and has earned an impressive score of 93."
+            },
+            {
+                "psg_id": 2118,
+                "title": "wine_1",
+                "text": "The 2008 Rosellas Vineyard by Kosta Browne is a delightful Pinot Noir from Santa Lucia Highlands, California. With a price of $72 and a score of 93, only 255 cases are available."
+            },
+            {
+                "psg_id": 2147,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Landmark, found in Sonoma Coast, California. This 2008 vintage of Kanzler Vineyard, available for $65, has earned a stellar 93. Best enjoyed now."
+            },
+            {
+                "psg_id": 2177,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Valley Bliss Block by Lynmar, produced in the Russian River Valley of California. This 2008 vintage is priced at $70 and has earned a score of 93, with 152 cases made."
+            },
+            {
+                "psg_id": 2207,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Pinot Noir from Patz & Hall in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $42 and has achieved a remarkable 93."
+            },
+            {
+                "psg_id": 2237,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Valdez Family, crafted in the Russian River Valley of California. The Lancel Creek Vineyard from 2007 is priced at $55 and has earned an impressive score of 93."
+            },
+            {
+                "psg_id": 2267,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by De Loach is a delightful Pinot Noir from Green Valley of Russian River Valley, California. With a price of $45 and a score of 92, only 1467 cases are available."
+            },
+            {
+                "psg_id": 2297,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Kosta Browne, found in California, California. This 2008 vintage of 4-Barrel, available for $72, has earned a stellar 92. Best enjoyed now."
+            },
+            {
+                "psg_id": 2326,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Gaps Crown Vineyard by Kosta Browne, produced in the Sonoma Coast of California. This 2008 vintage is priced at $68 and has earned a score of 92, with 690 cases made."
+            },
+            {
+                "psg_id": 2356,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Pinot Noir from Kosta Browne in Sonoma Coast, California, offers exceptional taste. This 2008 vintage is available for $52 and has achieved a remarkable 90."
+            },
+            {
+                "psg_id": 2386,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Rusack, crafted in the Sta. Rita Hills of California. The Reserve from 2008 is priced at $40 and has earned an impressive score of 89."
+            },
+            {
+                "psg_id": 2416,
+                "title": "wine_1",
+                "text": "The 2008 A by Acacia by Acacia is a delightful Pinot Noir from California, California. With a price of $17 and a score of 88, only 58231 cases are available."
+            },
+            {
+                "psg_id": 2446,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Alma Rosa, found in Sta. Rita Hills, California. This 2008 vintage of La Encantada Vineyard, available for $43, has earned a stellar 88. Best enjoyed now."
+            },
+            {
+                "psg_id": 2476,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of La Encantada Vineyard Clone 667 by Alma Rosa, produced in the Sta. Rita Hills of California. This 2008 vintage is priced at $43 and has earned a score of 88, with 358 cases made."
+            },
+            {
+                "psg_id": 2505,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Estate Reserve from Artesa in Carneros, California, offers exceptional taste. This 2007 vintage is available for $40 and has achieved a remarkable 88."
+            },
+            {
+                "psg_id": 2535,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Robert Mondavi, crafted in the Napa Valley of California. The Carneros from 2008 is priced at $28 and has earned an impressive score of 88."
+            },
+            {
+                "psg_id": 2565,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by Pfendler is a delightful Pinot Noir from Sonoma Coast, California. With a price of $45 and a score of 88, only 400 cases are available."
+            },
+            {
+                "psg_id": 2595,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Roar, found in Santa Lucia Highlands, California. This 2008 vintage of Garys Vineyard, available for $50, has earned a stellar 88. Best enjoyed now."
+            },
+            {
+                "psg_id": 2625,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Pinot Noir by Rusack, produced in the Santa Maria Valley of California. This 2008 vintage is priced at $36 and has earned a score of 88, with 833 cases made."
+            },
+            {
+                "psg_id": 2655,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Sarmento Vineyard from Sequana in Santa Lucia Highlands, California, offers exceptional taste. This 2008 vintage is available for $32 and has achieved a remarkable 88."
+            },
+            {
+                "psg_id": 2684,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Spell, crafted in the Sonoma Coast of California. The Pinot Noir from 2008 is priced at $30 and has earned an impressive score of 88."
+            },
+            {
+                "psg_id": 2714,
+                "title": "wine_1",
+                "text": "The 2008 Pinot Noir by Twomey is a delightful Pinot Noir from Santa Barbara County, California. With a price of $30 and a score of 88, only 1510 cases are available."
+            },
+            {
+                "psg_id": 2744,
+                "title": "wine_1",
+                "text": "Indulge in the delightful Pinot Noir from Alma Rosa, found in Sta. Rita Hills, California. This 2008 vintage of Pinot Noir, available for $32, has earned a stellar 87. Best enjoyed now."
+            },
+            {
+                "psg_id": 2774,
+                "title": "wine_1",
+                "text": "Discover the Pinot Noir excellence of Pinot Noir by Castle Rock, produced in the Central Coast of California. This 2008 vintage is priced at $13 and has earned a score of 87, with 36000 cases made."
+            },
+            {
+                "psg_id": 2804,
+                "title": "wine_1",
+                "text": "The Pinot Noir wine Henry Ranch from V. Sattui in Carneros, California, offers exceptional taste. This 2008 vintage is available for $36 and has achieved a remarkable 87."
+            },
+            {
+                "psg_id": 2834,
+                "title": "wine_1",
+                "text": "Experience the exquisite Pinot Noir wine from Sebastiani, crafted in the Carneros of California. The Pinot Noir from 2008 is priced at $24 and has earned an impressive score of 87."
+            },
+            {
+                "psg_id": 2863,
+                "title": "wine_1",
+                "text": "The 2008 Kali Hart by Talbott is a delightful Pinot Noir from Santa Lucia Highlands, California. With a price of $21 and a score of 87, only 8000 cases are available."
+            }
+        ]
+    }
+]

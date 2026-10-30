@@ -1,0 +1,28 @@
+{
+  "data": "data/qasper-train-dev-v0.3.tgz",
+  "split": "train",
+  "questions": 10,
+  "seed": 42,
+  "inspect": false,
+  "model": "BAAI/bge-large-en-v1.5",
+  "model_revision": "main",
+  "device": "mps",
+  "chunk_tokens": 128,
+  "chunking": "fixed",
+  "semantic_percentile": 70.0,
+  "spacy_model": "en_core_web_sm",
+  "batch_size": 8,
+  "fixed_k": 5,
+  "buffer": 5,
+  "out": "results/2x2-fixed-10.jsonl",
+  "data_sha256": "a28fdf966db827bcee3d873107d6b6669864fb7ca8fbf73a192f5e39191bdb5a",
+  "tail_fraction": 0.1,
+  "query_instruction": "",
+  "token_count_basis": "embedding tokenizer; excludes special tokens and prompt overhead",
+  "resolved_model_commit": "d4aa6901d3a41ba39fb536a557fa166f842b0e09",
+  "versions": {
+    "sentence-transformers": "4.1.0",
+    "transformers": "4.51.3",
+    "torch": "2.6.0"
+  }
+}

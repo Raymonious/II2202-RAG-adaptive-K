@@ -1,0 +1,30 @@
+{
+  "splits": [
+    "wine_1",
+    "college_2",
+    "flight_4",
+    "store_1",
+    "soccer_1"
+  ],
+  "max_context_size": 20000,
+  "info_amount": 5000,
+  "merge_strategy": "uniform",
+  "model": "BAAI/bge-large-en-v1.5",
+  "device": "mps",
+  "batch_size": 16,
+  "fixed_k": [
+    5,
+    10
+  ],
+  "buffer": 5,
+  "ignore_extreme": 0.05,
+  "ignore_extreme_tail": 0.1,
+  "out": "results/pilot-90.jsonl",
+  "versions": {
+    "sentence-transformers": "4.1.0",
+    "transformers": "4.51.3",
+    "torch": "2.6.0",
+    "datasets": "5.0.1",
+    "duckdb": "1.5.5"
+  }
+}

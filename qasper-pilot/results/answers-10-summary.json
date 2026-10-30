@@ -1,0 +1,62 @@
+{
+  "answers_file": "results/answers-10.jsonl",
+  "retrieval_file": "results/pilot-10.jsonl",
+  "summary": {
+    "fixed_k_5": {
+      "questions": 10,
+      "mean_answer_f1": 0.21199968388609364,
+      "mean_context_tokens": 640.1
+    },
+    "fixed_k_10": {
+      "questions": 10,
+      "mean_answer_f1": 0.2009700916013685,
+      "mean_context_tokens": 1274.6
+    },
+    "adaptive_k": {
+      "questions": 10,
+      "mean_answer_f1": 0.16517057657159756,
+      "mean_context_tokens": 1281.2
+    },
+    "gold_evidence": {
+      "questions": 10,
+      "mean_answer_f1": 0.33834105489703215
+    }
+  },
+  "paired_diffs": {
+    "adaptive_minus_fixed_k_5": {
+      "questions": 10,
+      "answer_f1": {
+        "mean_difference": -0.04682910731449607,
+        "paired_bootstrap_95_percent_interval": [
+          -0.29976278464083345,
+          0.14664864547217488
+        ]
+      },
+      "context_tokens": {
+        "mean_difference": 641.1,
+        "paired_bootstrap_95_percent_interval": [
+          191.7,
+          1282.1
+        ]
+      }
+    },
+    "adaptive_minus_fixed_k_10": {
+      "questions": 10,
+      "answer_f1": {
+        "mean_difference": -0.03579951502977095,
+        "paired_bootstrap_95_percent_interval": [
+          -0.1162144717101175,
+          0.03723577235772357
+        ]
+      },
+      "context_tokens": {
+        "mean_difference": 6.6,
+        "paired_bootstrap_95_percent_interval": [
+          -444.5,
+          647.6
+        ]
+      }
+    }
+  },
+  "interval_caveat": "Exploratory paired bootstrap, 2000 resamples; one question per paper."
+}
